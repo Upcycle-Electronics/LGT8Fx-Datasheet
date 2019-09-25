@@ -1,0 +1,36 @@
+NOTE: I am not an expert. I do not know what I am doing. Don't ask me to get on the internet and search for a solution to your problems. I've done my best to disclose what I am using. This documentationwas made on Sept 25th 2019. If you're reading this and it is not Sept 25th 2019, it's probably wrong. I don't do any crazy unix jedi master nonsense. Most packages are whatever (probably outdated) thing is in the ubuntu source repository.  -Jake
+
+I am using Lubuntu 19.04 and an ancient HP single core AMD 64 laptop (Fred Flintstone would snub this thing as junk)
+
+$ gimp -version -v      
+    GNU Image Manipulation Program version 2.10.8
+    git-describe: GIMP_2_10_6-294-ga967e8d2c2
+    C compiler:
+            Using built-in specs.
+            COLLECT_GCC=gcc
+            COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/8/lto-wrapper
+            OFFLOAD_TARGET_NAMES=nvptx-none
+            OFFLOAD_TARGET_DEFAULT=1
+            Target: x86_64-linux-gnu
+            Configured with: ../src/configure -v --with-pkgversion='Ubuntu 8.2.0-13ubuntu1' --with-bugurl=file:///usr/share/doc/gcc-8/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-8 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+            Thread model: posix
+            gcc version 8.2.0 (Ubuntu 8.2.0-13ubuntu1) 
+
+    using GEGL version 0.4.14 (compiled against version 0.4.12)
+    using GLib version 2.60.0 (compiled against version 2.58.1)
+    using GdkPixbuf version 2.38.1 (compiled against version 2.38.0)
+    using GTK+ version 2.24.32 (compiled against version 2.24.32)
+    using Pango version 1.42.3 (compiled against version 1.42.3)
+    using Fontconfig version 2.13.1 (compiled against version 2.13.0)
+    using Cairo version 1.16.0 (compiled against version 1.16.0)
+
+
+$ pdftk -version -v
+    pdftk port to java 3.0.2 a Handy Tool for Manipulating PDF Documents
+    Copyright (c) 2017-2018 Marc Vinyals - https://gitlab.com/pdftk-java/pdftk
+    Copyright (c) 2003-2013 Steward and Lee, LLC.
+    pdftk includes a modified version of the iText library.
+    Copyright (c) 1999-2009 Bruno Lowagie, Paulo Soares, et al.
+    This is free software; see the source code for copying conditions. There is
+    NO warranty, not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+

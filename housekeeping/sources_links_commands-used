@@ -1,0 +1,51 @@
+definitions/commands used - this is raw commented notes prompted by skimming my bash command history just to give you an idea of what's going on.
+        
+manditory reading/skimming/bookmarking: https://jon.dehdari.org/tutorials/pdf_tricks.html
+If you need to compress a pdf the best option I have used so far is:
+https://www.sejda.com/compress-pdf
+There are a couple of command examples below where I split up the 267 page pdf to pass it through sejda. The site has a 200 page and 100MB limit for files uploaded for compression on the site. Users are also limited to 3 docs per hour.
+
+main image to text tool:    pdfocr.sh
+    This is something I found here: https://raw.githubusercontent.com/gkovacs/pdfocr/master/pdfocr.rb
+    I have also included a copy of this file as pdfocr.sh. It has issues and shows errors, but it kinda works.
+
+    sudo chmod 755 pdfocr.sh    #modify the read/write privlages for the bash script 
+    sudo mv ~/pdfocr.sh /usr/local/bin/pdfocr.sh    #move the bash script to the root folder so all that we need to type is pdfocr.sh to run the script. 
+    
+note if you use the pdfocf.sh script and try to run it, it was designed to prompt you if it needs some package that isn't already present on your computer. I think this is the list of everything it asked for.
+    sudo apt install ruby
+    sudo apt install pdftk          #this is how we manipulate the pdf document, moving pages around and checking data
+    sudo apt install unpaper        #unpaper is only used for scanned documents that do not have a digital white background
+    sudo apt install tesseract-ocr  #the main program used to extract the text from the .pdf image file
+    sudo apt install pdftoppm
+    sudo apt install cuneiform      #I couldn't get this one to work, it's an alternative to tesseract-ocr
+    sudo apt install exactimage
+    sudo apt-get install okular     #a half decent pdf viewer /not needed but is better than the lubuntu default
+    
+    
+    burst = pdftk LGT8FX8P_databook_v1.0.4.en.pdf burst
+        This command breaks out each page of the original pdf into it's own single page pdf.
+        The "burst" output of the english and chinese datasheets are stored in the burst-en and burst-cn directories.
+        The complete datasheet is also inside of the burst-en/-ch folders.
+        
+    editing modifications and commands copied strait out of my bash history
+        man pdftk
+        man tesseract
+        pdftk pg_0001.pdf output p0001.pdf uncompress
+        pdftotext out1.pdf out1.txt
+        pdftk LGT8FX8P_databook_v1.0.4.en.pdf cat 1-2 output ~/out1.pdf
+        cd Scaled\ -\ GIMP-outputs/
+        pdfocr.sh -i test0001scaled.pdf -o f0001m.pdf -t
+        pdfinfo f0001.pdf
+        pdfinfo f0001m.pdf
+        pdftotext pg_0010.pdf text0010.txt
+        pdftk LGT8FX8P_databook_v1.0.4.en.pdf cat 150-end output out2.pdf
+        pdftk LGT8FX8P_databook_v1.0.4.en.pdf cat 1-149 output out1.pdf
+        pdftk out1.pdf out2.pdf cat output LGT8FxDS_databook_v1.04.en.c.pdf
+        ps2pdf p0001m.pdf test.pdf
+        sudo apt install qpdf
+        gedit /usr/share/doc/qpdf/qpdf-manual.pdf #gedit is a basic text editor you can use anything here like vim or whatever
+        
+        
+note I also tried the free version of Master PDF editor, Libre Office Draw, and a couple of online PDF editors. None of them worked very well. Perhaps mentioning it will save you some time.
+        
