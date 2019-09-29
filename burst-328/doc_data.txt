@@ -1,0 +1,4583 @@
+InfoBegin
+InfoKey: Keywords
+InfoValue: Flash Microcontrollers
+InfoBegin
+InfoKey: Creator
+InfoValue: FrameMaker 8.0
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20090325160137-07&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20090219110515Z
+InfoBegin
+InfoKey: Producer
+InfoValue: Acrobat Distiller 8.1.0 (Windows)
+InfoBegin
+InfoKey: Copyright
+InfoValue: Atmel Corporation
+InfoBegin
+InfoKey: Author
+InfoValue: Atmel Corporation
+InfoBegin
+InfoKey: Title
+InfoValue: ATmega48/88/168
+PdfID0: 5776522dc8fe2accb483ff98a3272b61
+PdfID1: cddf6b3d208fe24fbc5e5de22f609f70
+NumberOfPages: 452
+BookmarkBegin
+BookmarkTitle: Features
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: 1. Pin Configurations
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 1.1 Pin Descriptions
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.1 VCC
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.2 GND
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.3 Port B (PB7:0) XTAL1/XTAL2/TOSC1/TOSC2
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.4 Port C (PC5:0)
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.5 PC6/RESET
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.6 Port D (PD7:0)
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 1.1.7 AVCC
+BookmarkLevel: 3
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 1.1.8 AREF
+BookmarkLevel: 3
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 1.1.9 ADC7:6 (TQFP and QFN/MLF Package Only)
+BookmarkLevel: 3
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 2. Overview
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 2.1 Block Diagram
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: 2.2 Comparison Between ATmega48P, ATmega88P, ATmega168P, and ATmega328P
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: 3. About
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 3.1 Disclaimer
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 3.2 Resources
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 3.3 Data Retention
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 3.4 Code Examples
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 4. AVR CPU Core
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 4.1 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 4.2 ALU ? Arithmetic Logic Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 4.3 Status Register
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 4.3.1 SREG ? AVR Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: 4.4 General Purpose Register File
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: 4.4.1 The X-register, Y-register, and Z-register
+BookmarkLevel: 3
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: 4.5 Stack Pointer
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: 4.5.1 SPH and SPL ? Stack Pointer High and Stack Pointer Low Register
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: 4.6 Instruction Execution Timing
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: 4.7 Reset and Interrupt Handling
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: 4.7.1 Interrupt Response Time
+BookmarkLevel: 3
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: 5. AVR Memories
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 5.1 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 5.2 In-System Reprogrammable Flash Program Memory
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 5.3 SRAM Data Memory
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 5.3.1 Data Memory Access Times
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 5.4 EEPROM Data Memory
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 5.4.1 EEPROM Read/Write Access
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 5.4.2 Preventing EEPROM Corruption
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 5.5 I/O Memory
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 5.5.1 General Purpose I/O Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 5.6 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 5.6.1 EEARH and EEARL ? The EEPROM Address Register
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 5.6.2 EEDR ? The EEPROM Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 5.6.3 EECR ? The EEPROM Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 5.6.4 GPIOR2 ? General Purpose I/O Register 2
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 5.6.5 GPIOR1 ? General Purpose I/O Register 1
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 5.6.6 GPIOR0 ? General Purpose I/O Register 0
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 6. System Clock and Clock Options
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6.1 Clock Systems and their Distribution
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6.1.1 CPU Clock ? clkCPU
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6.1.2 I/O Clock ? clkI/O
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6.1.3 Flash Clock ? clkFLASH
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6.1.4 Asynchronous Timer Clock ? clkASY
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 6.1.5 ADC Clock ? clkADC
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 6.2 Clock Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 6.2.1 Default Clock Source
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 6.2.2 Clock Startup Sequence
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 6.3 Low Power Crystal Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 6.4 Full Swing Crystal Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 6.5 Low Frequency Crystal Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: 6.6 Calibrated Internal RC Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: 6.7 128 kHz Internal Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: 6.8 External Clock
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 6.9 Clock Output Buffer
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 6.10 Timer/Counter Oscillator
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 6.11 System Clock Prescaler
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 6.12 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 6.12.1 OSCCAL ? Oscillator Calibration Register
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 6.12.2 CLKPR ? Clock Prescale Register
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 7. Power Management and Sleep Modes
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 7.1 Sleep Modes
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 7.2 BOD Disable
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 7.3 Idle Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 7.4 ADC Noise Reduction Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 7.5 Power-down Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 7.6 Power-save Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 7.7 Standby Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 7.8 Extended Standby Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 7.9 Power Reduction Register
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10 Minimizing Power Consumption
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10.1 Analog to Digital Converter
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10.2 Analog Comparator
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10.3 Brown-out Detector
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10.4 Internal Voltage Reference
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 7.10.5 Watchdog Timer
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 7.10.6 Port Pins
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 7.10.7 On-chip Debug System
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 7.11 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 7.11.1 SMCR ? Sleep Mode Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 7.11.2 MCUCR ? MCU Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 7.11.3 PRR ? Power Reduction Register
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: 8. System Control and Reset
+BookmarkLevel: 1
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 8.1 Resetting the AVR
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 8.2 Reset Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 8.3 Power-on Reset
+BookmarkLevel: 2
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: 8.4 External Reset
+BookmarkLevel: 2
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 8.5 Brown-out Detection
+BookmarkLevel: 2
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 8.6 Watchdog System Reset
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 8.7 Internal Voltage Reference
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 8.7.1 Voltage Reference Enable Signals and Start-up Time
+BookmarkLevel: 3
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 8.8 Watchdog Timer
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 8.8.1 Features
+BookmarkLevel: 3
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 8.8.2 Overview
+BookmarkLevel: 3
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 8.9 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 8.9.1 MCUSR ? MCU Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 8.9.2 WDTCSR ? Watchdog Timer Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 9. Interrupts
+BookmarkLevel: 1
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: 9.1 Interrupt Vectors in ATmega48P
+BookmarkLevel: 2
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: 9.2 Interrupt Vectors in ATmega88P
+BookmarkLevel: 2
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 9.3 Interrupt Vectors in ATmega168P
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: 9.4 Interrupt Vectors in ATmega328P
+BookmarkLevel: 2
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: 9.5 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 9.5.1 Moving Interrupts Between Application and Boot Space, ATmega88P, ATmega168P and ATmega328P
+BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 9.5.2 MCUCR ? MCU Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 10. External Interrupts
+BookmarkLevel: 1
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: 10.1 Pin Change Interrupt Timing
+BookmarkLevel: 2
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: 10.2 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: 10.2.1 EICRA ? External Interrupt Control Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: 10.2.2 EIMSK ? External Interrupt Mask Register
+BookmarkLevel: 3
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: 10.2.3 EIFR ? External Interrupt Flag Register
+BookmarkLevel: 3
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: 10.2.4 PCICR ? Pin Change Interrupt Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 10.2.5 PCIFR ? Pin Change Interrupt Flag Register
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 10.2.6 PCMSK2 ? Pin Change Mask Register 2
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 10.2.7 PCMSK1 ? Pin Change Mask Register 1
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 10.2.8 PCMSK0 ? Pin Change Mask Register 0
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 11. I/O-Ports
+BookmarkLevel: 1
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 11.1 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 11.2 Ports as General Digital I/O
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 11.2.1 Configuring the Pin
+BookmarkLevel: 3
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 11.2.2 Toggling the Pin
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 11.2.3 Switching Between Input and Output
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 11.2.4 Reading the Pin Value
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 11.2.5 Digital Input Enable and Sleep Modes
+BookmarkLevel: 3
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: 11.2.6 Unconnected Pins
+BookmarkLevel: 3
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: 11.3 Alternate Port Functions
+BookmarkLevel: 2
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: 11.3.1 Alternate Functions of Port B
+BookmarkLevel: 3
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: 11.3.2 Alternate Functions of Port C
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 11.3.3 Alternate Functions of Port D
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 11.4 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.1 MCUCR ? MCU Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.2 PORTB ? The Port B Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.3 DDRB ? The Port B Data Direction Register
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.4 PINB ? The Port B Input Pins Address
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.5 PORTC ? The Port C Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.6 DDRC ? The Port C Data Direction Register
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.7 PINC ? The Port C Input Pins Address
+BookmarkLevel: 3
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 11.4.8 PORTD ? The Port D Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 11.4.9 DDRD ? The Port D Data Direction Register
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 11.4.10 PIND ? The Port D Input Pins Address
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 12. 8-bit Timer/Counter0 with PWM
+BookmarkLevel: 1
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: 12.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: 12.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: 12.2.1 Definitions
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 12.2.2 Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 12.3 Timer/Counter Clock Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: 12.4 Counter Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: 12.5 Output Compare Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 12.5.1 Force Output Compare
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 12.5.2 Compare Match Blocking by TCNT0 Write
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 12.5.3 Using the Output Compare Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 12.6 Compare Match Output Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 12.6.1 Compare Output Mode and Waveform Generation
+BookmarkLevel: 3
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: 12.7 Modes of Operation
+BookmarkLevel: 2
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: 12.7.1 Normal Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 12.7.2 Clear Timer on Compare Match (CTC) Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 12.7.3 Fast PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 12.7.4 Phase Correct PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 12.8 Timer/Counter Timing Diagrams
+BookmarkLevel: 2
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 12.9 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: 12.9.1 TCCR0A ? Timer/Counter Control Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: 12.9.2 TCCR0B ? Timer/Counter Control Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 12.9.3 TCNT0 ? Timer/Counter Register
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 12.9.4 OCR0A ? Output Compare Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 12.9.5 OCR0B ? Output Compare Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 12.9.6 TIMSK0 ? Timer/Counter Interrupt Mask Register
+BookmarkLevel: 3
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: 12.9.7 TIFR0 ? Timer/Counter 0 Interrupt Flag Register
+BookmarkLevel: 3
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: 13. 16-bit Timer/Counter1 with PWM
+BookmarkLevel: 1
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 13.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 13.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 13.2.1 Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 13.2.2 Definitions
+BookmarkLevel: 3
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 13.3 Accessing 16-bit Registers
+BookmarkLevel: 2
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 13.3.1 Reusing the Temporary High Byte Register
+BookmarkLevel: 3
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: 13.4 Timer/Counter Clock Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: 13.5 Counter Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 13.6 Input Capture Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: 13.6.1 Input Capture Trigger Source
+BookmarkLevel: 3
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: 13.6.2 Noise Canceler
+BookmarkLevel: 3
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: 13.6.3 Using the Input Capture Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: 13.7 Output Compare Units
+BookmarkLevel: 2
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: 13.7.1 Force Output Compare
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 13.7.2 Compare Match Blocking by TCNT1 Write
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 13.7.3 Using the Output Compare Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 13.8 Compare Match Output Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 13.8.1 Compare Output Mode and Waveform Generation
+BookmarkLevel: 3
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 13.9 Modes of Operation
+BookmarkLevel: 2
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 13.9.1 Normal Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 13.9.2 Clear Timer on Compare Match (CTC) Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 13.9.3 Fast PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 13.9.4 Phase Correct PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: 13.9.5 Phase and Frequency Correct PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 13.10 Timer/Counter Timing Diagrams
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 13.11 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 13.11.1 TCCR1A ? Timer/Counter1 Control Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 13.11.2 TCCR1B ? Timer/Counter1 Control Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 13.11.3 TCCR1C ? Timer/Counter1 Control Register C
+BookmarkLevel: 3
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 13.11.4 TCNT1H and TCNT1L ? Timer/Counter1
+BookmarkLevel: 3
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: 13.11.5 OCR1AH and OCR1AL ? Output Compare Register 1 A
+BookmarkLevel: 3
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: 13.11.6 OCR1BH and OCR1BL ? Output Compare Register 1 B
+BookmarkLevel: 3
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: 13.11.7 ICR1H and ICR1L ? Input Capture Register 1
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 13.11.8 TIMSK1 ? Timer/Counter1 Interrupt Mask Register
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 13.11.9 TIFR1 ? Timer/Counter1 Interrupt Flag Register
+BookmarkLevel: 3
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 14. Timer/Counter0 and Timer/Counter1 Prescalers
+BookmarkLevel: 1
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 14.1 Internal Clock Source
+BookmarkLevel: 2
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 14.2 Prescaler Reset
+BookmarkLevel: 2
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 14.3 External Clock Source
+BookmarkLevel: 2
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 14.4 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: 14.4.1 GTCCR ? General Timer/Counter Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: 15. 8-bit Timer/Counter2 with PWM and Asynchronous Operation
+BookmarkLevel: 1
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: 15.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: 15.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: 15.2.1 Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 15.2.2 Definitions
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 15.3 Timer/Counter Clock Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 15.4 Counter Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 15.5 Output Compare Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 15.5.1 Force Output Compare
+BookmarkLevel: 3
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: 15.5.2 Compare Match Blocking by TCNT2 Write
+BookmarkLevel: 3
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: 15.5.3 Using the Output Compare Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: 15.6 Compare Match Output Unit
+BookmarkLevel: 2
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: 15.6.1 Compare Output Mode and Waveform Generation
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 15.7 Modes of Operation
+BookmarkLevel: 2
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 15.7.1 Normal Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 15.7.2 Clear Timer on Compare Match (CTC) Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 15.7.3 Fast PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: 15.7.4 Phase Correct PWM Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: 15.8 Timer/Counter Timing Diagrams
+BookmarkLevel: 2
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 15.9 Asynchronous Operation of Timer/Counter2
+BookmarkLevel: 2
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: 15.10 Timer/Counter Prescaler
+BookmarkLevel: 2
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: 15.11 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 15.11.1 TCCR2A ? Timer/Counter Control Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 15.11.2 TCCR2B ? Timer/Counter Control Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: 15.11.3 TCNT2 ? Timer/Counter Register
+BookmarkLevel: 3
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: 15.11.4 OCR2A ? Output Compare Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: 15.11.5 OCR2B ? Output Compare Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: 15.11.6 TIMSK2 ? Timer/Counter2 Interrupt Mask Register
+BookmarkLevel: 3
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: 15.11.7 TIFR2 ? Timer/Counter2 Interrupt Flag Register
+BookmarkLevel: 3
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: 15.11.8 ASSR ? Asynchronous Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: 15.11.9 GTCCR ? General Timer/Counter Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: 16. SPI ? Serial Peripheral Interface
+BookmarkLevel: 1
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: 16.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: 16.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: 16.3 SS Pin Functionality
+BookmarkLevel: 2
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 16.3.1 Slave Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 16.3.2 Master Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 16.4 Data Modes
+BookmarkLevel: 2
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 16.5 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 16.5.1 SPCR ? SPI Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 16.5.2 SPSR ? SPI Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: 16.5.3 SPDR ? SPI Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: 17. USART0
+BookmarkLevel: 1
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: 17.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: 17.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: 17.3 Clock Generation
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: 17.3.1 Internal Clock Generation ? The Baud Rate Generator
+BookmarkLevel: 3
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: 17.3.2 Double Speed Operation (U2Xn)
+BookmarkLevel: 3
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: 17.3.3 External Clock
+BookmarkLevel: 3
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 17.3.4 Synchronous Clock Operation
+BookmarkLevel: 3
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 17.4 Frame Formats
+BookmarkLevel: 2
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 17.4.1 Parity Bit Calculation
+BookmarkLevel: 3
+BookmarkPageNumber: 181
+BookmarkBegin
+BookmarkTitle: 17.5 USART Initialization
+BookmarkLevel: 2
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: 17.6 Data Transmission ? The USART Transmitter
+BookmarkLevel: 2
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 17.6.1 Sending Frames with 5 to 8 Data Bit
+BookmarkLevel: 3
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: 17.6.2 Sending Frames with 9 Data Bit
+BookmarkLevel: 3
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: 17.6.3 Transmitter Flags and Interrupts
+BookmarkLevel: 3
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: 17.6.4 Parity Generator
+BookmarkLevel: 3
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: 17.6.5 Disabling the Transmitter
+BookmarkLevel: 3
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: 17.7 Data Reception ? The USART Receiver
+BookmarkLevel: 2
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: 17.7.1 Receiving Frames with 5 to 8 Data Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: 17.7.2 Receiving Frames with 9 Data Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: 17.7.3 Receive Compete Flag and Interrupt
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: 17.7.4 Receiver Error Flags
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: 17.7.5 Parity Checker
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: 17.7.6 Disabling the Receiver
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 17.7.7 Flushing the Receive Buffer
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 17.8 Asynchronous Data Reception
+BookmarkLevel: 2
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 17.8.1 Asynchronous Clock Recovery
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 17.8.2 Asynchronous Data Recovery
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: 17.8.3 Asynchronous Operational Range
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 17.9 Multi-processor Communication Mode
+BookmarkLevel: 2
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 17.9.1 Using MPCMn
+BookmarkLevel: 3
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: 17.10 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 17.10.1 UDRn ? USART I/O Data Register n
+BookmarkLevel: 3
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 17.10.2 UCSRnA ? USART Control and Status Register n A
+BookmarkLevel: 3
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 17.10.3 UCSRnB ? USART Control and Status Register n B
+BookmarkLevel: 3
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 17.10.4 UCSRnC ? USART Control and Status Register n C
+BookmarkLevel: 3
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: 17.10.5 UBRRnL and UBRRnH ? USART Baud Rate Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 17.11 Examples of Baud Rate Setting
+BookmarkLevel: 2
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 18. USART in SPI Mode
+BookmarkLevel: 1
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 18.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 18.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 18.3 Clock Generation
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 18.4 SPI Data Modes and Timing
+BookmarkLevel: 2
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: 18.5 Frame Formats
+BookmarkLevel: 2
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 18.5.1 USART MSPIM Initialization
+BookmarkLevel: 3
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 18.6 Data Transfer
+BookmarkLevel: 2
+BookmarkPageNumber: 208
+BookmarkBegin
+BookmarkTitle: 18.6.1 Transmitter and Receiver Flags and Interrupts
+BookmarkLevel: 3
+BookmarkPageNumber: 209
+BookmarkBegin
+BookmarkTitle: 18.6.2 Disabling the Transmitter or Receiver
+BookmarkLevel: 3
+BookmarkPageNumber: 209
+BookmarkBegin
+BookmarkTitle: 18.7 AVR USART MSPIM vs. AVR SPI
+BookmarkLevel: 2
+BookmarkPageNumber: 210
+BookmarkBegin
+BookmarkTitle: 18.8 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 18.8.1 UDRn ? USART MSPIM I/O Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 18.8.2 UCSRnA ? USART MSPIM Control and Status Register n A
+BookmarkLevel: 3
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 18.8.3 UCSRnB ? USART MSPIM Control and Status Register n B
+BookmarkLevel: 3
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 18.8.4 UCSRnC ? USART MSPIM Control and Status Register n C
+BookmarkLevel: 3
+BookmarkPageNumber: 212
+BookmarkBegin
+BookmarkTitle: 18.8.5 USART MSPIM Baud Rate Registers - UBRRnL and UBRRnH
+BookmarkLevel: 3
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: 19. 2-wire Serial Interface
+BookmarkLevel: 1
+BookmarkPageNumber: 214
+BookmarkBegin
+BookmarkTitle: 19.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 214
+BookmarkBegin
+BookmarkTitle: 19.2 2-wire Serial Interface Bus Definition
+BookmarkLevel: 2
+BookmarkPageNumber: 214
+BookmarkBegin
+BookmarkTitle: 19.2.1 TWI Terminology
+BookmarkLevel: 3
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 19.2.2 Electrical Interconnection
+BookmarkLevel: 3
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 19.3 Data Transfer and Frame Format
+BookmarkLevel: 2
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 19.3.1 Transferring Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 19.3.2 START and STOP Conditions
+BookmarkLevel: 3
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 19.3.3 Address Packet Format
+BookmarkLevel: 3
+BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: 19.3.4 Data Packet Format
+BookmarkLevel: 3
+BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: 19.3.5 Combining Address and Data Packets into a Transmission
+BookmarkLevel: 3
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 19.4 Multi-master Bus Systems, Arbitration and Synchronization
+BookmarkLevel: 2
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 19.5 Overview of the TWI Module
+BookmarkLevel: 2
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 19.5.1 SCL and SDA Pins
+BookmarkLevel: 3
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 19.5.2 Bit Rate Generator Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 19.5.3 Bus Interface Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 222
+BookmarkBegin
+BookmarkTitle: 19.5.4 Address Match Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 222
+BookmarkBegin
+BookmarkTitle: 19.5.5 Control Unit
+BookmarkLevel: 3
+BookmarkPageNumber: 222
+BookmarkBegin
+BookmarkTitle: 19.6 Using the TWI
+BookmarkLevel: 2
+BookmarkPageNumber: 223
+BookmarkBegin
+BookmarkTitle: 19.7 Transmission Modes
+BookmarkLevel: 2
+BookmarkPageNumber: 227
+BookmarkBegin
+BookmarkTitle: 19.7.1 Master Transmitter Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 227
+BookmarkBegin
+BookmarkTitle: 19.7.2 Master Receiver Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 230
+BookmarkBegin
+BookmarkTitle: 19.7.3 Slave Receiver Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 233
+BookmarkBegin
+BookmarkTitle: 19.7.4 Slave Transmitter Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 236
+BookmarkBegin
+BookmarkTitle: 19.7.5 Miscellaneous States
+BookmarkLevel: 3
+BookmarkPageNumber: 239
+BookmarkBegin
+BookmarkTitle: 19.7.6 Combining Several TWI Modes
+BookmarkLevel: 3
+BookmarkPageNumber: 239
+BookmarkBegin
+BookmarkTitle: 19.8 Multi-master Systems and Arbitration
+BookmarkLevel: 2
+BookmarkPageNumber: 240
+BookmarkBegin
+BookmarkTitle: 19.9 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: 19.9.1 TWBR ? TWI Bit Rate Register
+BookmarkLevel: 3
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: 19.9.2 TWCR ? TWI Control Register
+BookmarkLevel: 3
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: 19.9.3 TWSR ? TWI Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 243
+BookmarkBegin
+BookmarkTitle: 19.9.4 TWDR ? TWI Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 243
+BookmarkBegin
+BookmarkTitle: 19.9.5 TWAR ? TWI (Slave) Address Register
+BookmarkLevel: 3
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 19.9.6 TWAMR ? TWI (Slave) Address Mask Register
+BookmarkLevel: 3
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 20. Analog Comparator
+BookmarkLevel: 1
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 20.1 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 20.2 Analog Comparator Multiplexed Input
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 20.3 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: 20.3.1 ADCSRB ? ADC Control and Status Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: 20.3.2 ACSR ? Analog Comparator Control and Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: 20.3.3 DIDR1 ? Digital Input Disable Register 1
+BookmarkLevel: 3
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 21. Analog-to-Digital Converter
+BookmarkLevel: 1
+BookmarkPageNumber: 250
+BookmarkBegin
+BookmarkTitle: 21.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 250
+BookmarkBegin
+BookmarkTitle: 21.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 250
+BookmarkBegin
+BookmarkTitle: 21.3 Starting a Conversion
+BookmarkLevel: 2
+BookmarkPageNumber: 252
+BookmarkBegin
+BookmarkTitle: 21.4 Prescaling and Conversion Timing
+BookmarkLevel: 2
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: 21.5 Changing Channel or Reference Selection
+BookmarkLevel: 2
+BookmarkPageNumber: 255
+BookmarkBegin
+BookmarkTitle: 21.5.1 ADC Input Channels
+BookmarkLevel: 3
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: 21.5.2 ADC Voltage Reference
+BookmarkLevel: 3
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: 21.6 ADC Noise Canceler
+BookmarkLevel: 2
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: 21.6.1 Analog Input Circuitry
+BookmarkLevel: 3
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: 21.6.2 Analog Noise Canceling Techniques
+BookmarkLevel: 3
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: 21.6.3 ADC Accuracy Definitions
+BookmarkLevel: 3
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 21.7 ADC Conversion Result
+BookmarkLevel: 2
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 21.8 Temperature Measurement
+BookmarkLevel: 2
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 21.9 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 262
+BookmarkBegin
+BookmarkTitle: 21.9.1 ADMUX ? ADC Multiplexer Selection Register
+BookmarkLevel: 3
+BookmarkPageNumber: 262
+BookmarkBegin
+BookmarkTitle: 21.9.2 ADCSRA ? ADC Control and Status Register A
+BookmarkLevel: 3
+BookmarkPageNumber: 263
+BookmarkBegin
+BookmarkTitle: 21.9.3 ADCL and ADCH ? The ADC Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: 21.9.4 ADCSRB ? ADC Control and Status Register B
+BookmarkLevel: 3
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: 21.9.5 DIDR0 ? Digital Input Disable Register 0
+BookmarkLevel: 3
+BookmarkPageNumber: 266
+BookmarkBegin
+BookmarkTitle: 22. debugWIRE On-chip Debug System
+BookmarkLevel: 1
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 22.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 22.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 22.3 Physical Interface
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 22.4 Software Break Points
+BookmarkLevel: 2
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 22.5 Limitations of debugWIRE
+BookmarkLevel: 2
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 22.6 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 22.6.1 DWDR ? debugWire Data Register
+BookmarkLevel: 3
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 23. Self-Programming the Flash, ATmega48P
+BookmarkLevel: 1
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: 23.1 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: 23.1.1 Performing Page Erase by SPM
+BookmarkLevel: 3
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: 23.1.2 Filling the Temporary Buffer (Page Loading)
+BookmarkLevel: 3
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: 23.1.3 Performing a Page Write
+BookmarkLevel: 3
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: 23.2 Addressing the Flash During Self-Programming
+BookmarkLevel: 2
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: 23.2.1 EEPROM Write Prevents Writing to SPMCSR
+BookmarkLevel: 3
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 23.2.2 Reading the Fuse and Lock Bits from Software
+BookmarkLevel: 3
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 23.2.3 Preventing Flash Corruption
+BookmarkLevel: 3
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: 23.2.4 Programming Time for Flash when Using SPM
+BookmarkLevel: 3
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: 23.2.5 Simple Assembly Code Example for a Boot Loader
+BookmarkLevel: 3
+BookmarkPageNumber: 273
+BookmarkBegin
+BookmarkTitle: 23.3 Register Description?
+BookmarkLevel: 2
+BookmarkPageNumber: 275
+BookmarkBegin
+BookmarkTitle: 23.3.1 SPMCSR ? Store Program Memory Control and Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 275
+BookmarkBegin
+BookmarkTitle: 24. Boot Loader Support ? Read-While-Write Self-Programming, ATmega88P, ATmega168P and ATmega328P
+BookmarkLevel: 1
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.1 Features
+BookmarkLevel: 2
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.2 Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.3 Application and Boot Loader Flash Sections
+BookmarkLevel: 2
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.3.1 Application Section
+BookmarkLevel: 3
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.3.2 BLS ? Boot Loader Section
+BookmarkLevel: 3
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 24.4 Read-While-Write and No Read-While-Write Flash Sections
+BookmarkLevel: 2
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 24.4.1 RWW ? Read-While-Write Section
+BookmarkLevel: 3
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 24.4.2 NRWW ? No Read-While-Write Section
+BookmarkLevel: 3
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 24.5 Boot Loader Lock Bits
+BookmarkLevel: 2
+BookmarkPageNumber: 280
+BookmarkBegin
+BookmarkTitle: 24.6 Entering the Boot Loader Program
+BookmarkLevel: 2
+BookmarkPageNumber: 281
+BookmarkBegin
+BookmarkTitle: 24.7 Addressing the Flash During Self-Programming
+BookmarkLevel: 2
+BookmarkPageNumber: 282
+BookmarkBegin
+BookmarkTitle: 24.8 Self-Programming the Flash
+BookmarkLevel: 2
+BookmarkPageNumber: 282
+BookmarkBegin
+BookmarkTitle: 24.8.1 Performing Page Erase by SPM
+BookmarkLevel: 3
+BookmarkPageNumber: 283
+BookmarkBegin
+BookmarkTitle: 24.8.2 Filling the Temporary Buffer (Page Loading)
+BookmarkLevel: 3
+BookmarkPageNumber: 283
+BookmarkBegin
+BookmarkTitle: 24.8.3 Performing a Page Write
+BookmarkLevel: 3
+BookmarkPageNumber: 283
+BookmarkBegin
+BookmarkTitle: 24.8.4 Using the SPM Interrupt
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.5 Consideration While Updating BLS
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.6 Prevent Reading the RWW Section During Self-Programming
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.7 Setting the Boot Loader Lock Bits by SPM
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.8 EEPROM Write Prevents Writing to SPMCSR
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.9 Reading the Fuse and Lock Bits from Software
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 24.8.10 Reading the Signature Row from Software
+BookmarkLevel: 3
+BookmarkPageNumber: 285
+BookmarkBegin
+BookmarkTitle: 24.8.11 Preventing Flash Corruption
+BookmarkLevel: 3
+BookmarkPageNumber: 286
+BookmarkBegin
+BookmarkTitle: 24.8.12 Programming Time for Flash when Using SPM
+BookmarkLevel: 3
+BookmarkPageNumber: 286
+BookmarkBegin
+BookmarkTitle: 24.8.13 Simple Assembly Code Example for a Boot Loader
+BookmarkLevel: 3
+BookmarkPageNumber: 286
+BookmarkBegin
+BookmarkTitle: 24.8.14 ATmega88P Boot Loader Parameters
+BookmarkLevel: 3
+BookmarkPageNumber: 289
+BookmarkBegin
+BookmarkTitle: 24.8.15 ATmega168P Boot Loader Parameters
+BookmarkLevel: 3
+BookmarkPageNumber: 290
+BookmarkBegin
+BookmarkTitle: 24.8.16 ATmega328P Boot Loader Parameters
+BookmarkLevel: 3
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: 24.9 Register Description
+BookmarkLevel: 2
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 24.9.1 SPMCSR ? Store Program Memory Control and Status Register
+BookmarkLevel: 3
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 25. Memory Programming
+BookmarkLevel: 1
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 25.1 Program And Data Memory Lock Bits
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 25.2 Fuse Bits
+BookmarkLevel: 2
+BookmarkPageNumber: 295
+BookmarkBegin
+BookmarkTitle: 25.2.1 Latching of Fuses
+BookmarkLevel: 3
+BookmarkPageNumber: 298
+BookmarkBegin
+BookmarkTitle: 25.3 Signature Bytes
+BookmarkLevel: 2
+BookmarkPageNumber: 298
+BookmarkBegin
+BookmarkTitle: 25.4 Calibration Byte
+BookmarkLevel: 2
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 25.5 Page Size
+BookmarkLevel: 2
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 25.6 Parallel Programming Parameters, Pin Mapping, and Commands
+BookmarkLevel: 2
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 25.6.1 Signal Names
+BookmarkLevel: 3
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 25.7 Parallel Programming
+BookmarkLevel: 2
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 25.7.1 Enter Programming Mode
+BookmarkLevel: 3
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 25.7.2 Considerations for Efficient Programming
+BookmarkLevel: 3
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: 25.7.3 Chip Erase
+BookmarkLevel: 3
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: 25.7.4 Programming the Flash
+BookmarkLevel: 3
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: 25.7.5 Programming the EEPROM
+BookmarkLevel: 3
+BookmarkPageNumber: 304
+BookmarkBegin
+BookmarkTitle: 25.7.6 Reading the Flash
+BookmarkLevel: 3
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 25.7.7 Reading the EEPROM
+BookmarkLevel: 3
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 25.7.8 Programming the Fuse Low Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 25.7.9 Programming the Fuse High Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 25.7.10 Programming the Extended Fuse Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 25.7.11 Programming the Lock Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 25.7.12 Reading the Fuse and Lock Bits
+BookmarkLevel: 3
+BookmarkPageNumber: 307
+BookmarkBegin
+BookmarkTitle: 25.7.13 Reading the Signature Bytes
+BookmarkLevel: 3
+BookmarkPageNumber: 307
+BookmarkBegin
+BookmarkTitle: 25.7.14 Reading the Calibration Byte
+BookmarkLevel: 3
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: 25.7.15 Parallel Programming Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: 25.8 Serial Downloading
+BookmarkLevel: 2
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: 25.8.1 Serial Programming Pin Mapping
+BookmarkLevel: 3
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: 25.8.2 Serial Programming Algorithm
+BookmarkLevel: 3
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: 25.8.3 Serial Programming Instruction set
+BookmarkLevel: 3
+BookmarkPageNumber: 310
+BookmarkBegin
+BookmarkTitle: 25.8.4 SPI Serial Programming Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: 26. Electrical Characteristics
+BookmarkLevel: 1
+BookmarkPageNumber: 313
+BookmarkBegin
+BookmarkTitle: 26.1 Absolute Maximum Ratings*
+BookmarkLevel: 2
+BookmarkPageNumber: 313
+BookmarkBegin
+BookmarkTitle: 26.2 DC Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 313
+BookmarkBegin
+BookmarkTitle: 26.2.1 ATmega48P DC Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 314
+BookmarkBegin
+BookmarkTitle: 26.2.2 ATmega88P DC Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 315
+BookmarkBegin
+BookmarkTitle: 26.2.3 ATmega168P DC Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 315
+BookmarkBegin
+BookmarkTitle: 26.2.4 ATmega328P DC Characteristics
+BookmarkLevel: 3
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 26.3 Speed Grades
+BookmarkLevel: 2
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 26.4 Clock Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 319
+BookmarkBegin
+BookmarkTitle: 26.4.1 Calibrated Internal RC Oscillator Accuracy
+BookmarkLevel: 3
+BookmarkPageNumber: 319
+BookmarkBegin
+BookmarkTitle: 26.4.2 External Clock Drive Waveforms
+BookmarkLevel: 3
+BookmarkPageNumber: 319
+BookmarkBegin
+BookmarkTitle: 26.4.3 External Clock Drive
+BookmarkLevel: 3
+BookmarkPageNumber: 319
+BookmarkBegin
+BookmarkTitle: 26.5 System and Reset Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: 26.6 SPI Timing Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: 26.7 2-wire Serial Interface Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 323
+BookmarkBegin
+BookmarkTitle: 26.8 ADC Characteristics ? Preliminary Data
+BookmarkLevel: 2
+BookmarkPageNumber: 325
+BookmarkBegin
+BookmarkTitle: 26.9 Parallel Programming Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 326
+BookmarkBegin
+BookmarkTitle: 27. Typical Characteristics
+BookmarkLevel: 1
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: 27.1 ATmega48P Typical Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 329
+BookmarkBegin
+BookmarkTitle: 27.1.1 Active Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 329
+BookmarkBegin
+BookmarkTitle: 27.1.2 Idle Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 331
+BookmarkBegin
+BookmarkTitle: 27.1.3 Supply Current of IO Modules
+BookmarkLevel: 3
+BookmarkPageNumber: 334
+BookmarkBegin
+BookmarkTitle: 27.1.4 Power-down Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 335
+BookmarkBegin
+BookmarkTitle: 27.1.5 Power-save Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 336
+BookmarkBegin
+BookmarkTitle: 27.1.6 Standby Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 336
+BookmarkBegin
+BookmarkTitle: 27.1.7 Pin Pull-Up
+BookmarkLevel: 3
+BookmarkPageNumber: 337
+BookmarkBegin
+BookmarkTitle: 27.1.8 Pin Driver Strength
+BookmarkLevel: 3
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: 27.1.9 Pin Threshold and Hysteresis
+BookmarkLevel: 3
+BookmarkPageNumber: 342
+BookmarkBegin
+BookmarkTitle: 27.1.10 BOD Threshold
+BookmarkLevel: 3
+BookmarkPageNumber: 345
+BookmarkBegin
+BookmarkTitle: 27.1.11 Internal Oscilllator Speed
+BookmarkLevel: 3
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: 27.1.12 Current Consumption of Peripheral Units
+BookmarkLevel: 3
+BookmarkPageNumber: 349
+BookmarkBegin
+BookmarkTitle: 27.1.13 Current Consumption in Reset and Reset Pulsewidth
+BookmarkLevel: 3
+BookmarkPageNumber: 351
+BookmarkBegin
+BookmarkTitle: 27.2 ATmega88P Typical Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 353
+BookmarkBegin
+BookmarkTitle: 27.2.1 Active Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 353
+BookmarkBegin
+BookmarkTitle: 27.2.2 Idle Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 355
+BookmarkBegin
+BookmarkTitle: 27.2.3 Supply Current of IO Modules
+BookmarkLevel: 3
+BookmarkPageNumber: 358
+BookmarkBegin
+BookmarkTitle: 27.2.4 Power-down Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 359
+BookmarkBegin
+BookmarkTitle: 27.2.5 Power-save Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 360
+BookmarkBegin
+BookmarkTitle: 27.2.6 Standby Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 360
+BookmarkBegin
+BookmarkTitle: 27.2.7 Pin Pull-Up
+BookmarkLevel: 3
+BookmarkPageNumber: 361
+BookmarkBegin
+BookmarkTitle: 27.2.8 Pin Driver Strength
+BookmarkLevel: 3
+BookmarkPageNumber: 364
+BookmarkBegin
+BookmarkTitle: 27.2.9 Pin Threshold and Hysteresis
+BookmarkLevel: 3
+BookmarkPageNumber: 366
+BookmarkBegin
+BookmarkTitle: 27.2.10 BOD Threshold
+BookmarkLevel: 3
+BookmarkPageNumber: 369
+BookmarkBegin
+BookmarkTitle: 27.2.11 Internal Oscilllator Speed
+BookmarkLevel: 3
+BookmarkPageNumber: 370
+BookmarkBegin
+BookmarkTitle: 27.2.12 Current Consumption of Peripheral Units
+BookmarkLevel: 3
+BookmarkPageNumber: 373
+BookmarkBegin
+BookmarkTitle: 27.2.13 Current Consumption in Reset and Reset Pulsewidth
+BookmarkLevel: 3
+BookmarkPageNumber: 375
+BookmarkBegin
+BookmarkTitle: 27.3 ATmega168P Typical Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 377
+BookmarkBegin
+BookmarkTitle: 27.3.1 Active Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 377
+BookmarkBegin
+BookmarkTitle: 27.3.2 Idle Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 379
+BookmarkBegin
+BookmarkTitle: 27.3.3 Supply Current of IO Modules
+BookmarkLevel: 3
+BookmarkPageNumber: 382
+BookmarkBegin
+BookmarkTitle: 27.3.4 Power-down Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 383
+BookmarkBegin
+BookmarkTitle: 27.3.5 Power-save Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 384
+BookmarkBegin
+BookmarkTitle: 27.3.6 Standby Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 384
+BookmarkBegin
+BookmarkTitle: 27.3.7 Pin Pull-Up
+BookmarkLevel: 3
+BookmarkPageNumber: 385
+BookmarkBegin
+BookmarkTitle: 27.3.8 Pin Driver Strength
+BookmarkLevel: 3
+BookmarkPageNumber: 388
+BookmarkBegin
+BookmarkTitle: 27.3.9 Pin Threshold and Hysteresis
+BookmarkLevel: 3
+BookmarkPageNumber: 390
+BookmarkBegin
+BookmarkTitle: 27.3.10 BOD Threshold
+BookmarkLevel: 3
+BookmarkPageNumber: 393
+BookmarkBegin
+BookmarkTitle: 27.3.11 Internal Oscilllator Speed
+BookmarkLevel: 3
+BookmarkPageNumber: 394
+BookmarkBegin
+BookmarkTitle: 27.3.12 Current Consumption of Peripheral Units
+BookmarkLevel: 3
+BookmarkPageNumber: 397
+BookmarkBegin
+BookmarkTitle: 27.3.13 Current Consumption in Reset and Reset Pulsewidth
+BookmarkLevel: 3
+BookmarkPageNumber: 399
+BookmarkBegin
+BookmarkTitle: 27.4 ATmega328P Typical Characteristics
+BookmarkLevel: 2
+BookmarkPageNumber: 401
+BookmarkBegin
+BookmarkTitle: 27.4.1 Active Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 401
+BookmarkBegin
+BookmarkTitle: 27.4.2 Idle Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 403
+BookmarkBegin
+BookmarkTitle: 27.4.3 Supply Current of IO Modules
+BookmarkLevel: 3
+BookmarkPageNumber: 406
+BookmarkBegin
+BookmarkTitle: 27.4.4 Power-down Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 407
+BookmarkBegin
+BookmarkTitle: 27.4.5 Power-save Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 408
+BookmarkBegin
+BookmarkTitle: 27.4.6 Standby Supply Current
+BookmarkLevel: 3
+BookmarkPageNumber: 408
+BookmarkBegin
+BookmarkTitle: 27.4.7 Pin Pull-Up
+BookmarkLevel: 3
+BookmarkPageNumber: 409
+BookmarkBegin
+BookmarkTitle: 27.4.8 Pin Driver Strength
+BookmarkLevel: 3
+BookmarkPageNumber: 412
+BookmarkBegin
+BookmarkTitle: 27.4.9 Pin Threshold and Hysteresis
+BookmarkLevel: 3
+BookmarkPageNumber: 414
+BookmarkBegin
+BookmarkTitle: 27.4.10 BOD Threshold
+BookmarkLevel: 3
+BookmarkPageNumber: 417
+BookmarkBegin
+BookmarkTitle: 27.4.11 Internal Oscilllator Speed
+BookmarkLevel: 3
+BookmarkPageNumber: 418
+BookmarkBegin
+BookmarkTitle: 27.4.12 Current Consumption of Peripheral Units
+BookmarkLevel: 3
+BookmarkPageNumber: 421
+BookmarkBegin
+BookmarkTitle: 27.4.13 Current Consumption in Reset and Reset Pulsewidth
+BookmarkLevel: 3
+BookmarkPageNumber: 423
+BookmarkBegin
+BookmarkTitle: 28. Register Summary
+BookmarkLevel: 1
+BookmarkPageNumber: 425
+BookmarkBegin
+BookmarkTitle: 29. Instruction Set Summary
+BookmarkLevel: 1
+BookmarkPageNumber: 429
+BookmarkBegin
+BookmarkTitle: 30. Ordering Information
+BookmarkLevel: 1
+BookmarkPageNumber: 432
+BookmarkBegin
+BookmarkTitle: 30.1 ATmega48P
+BookmarkLevel: 2
+BookmarkPageNumber: 432
+BookmarkBegin
+BookmarkTitle: 30.2 ATmega88P
+BookmarkLevel: 2
+BookmarkPageNumber: 433
+BookmarkBegin
+BookmarkTitle: 30.3 ATmega168P
+BookmarkLevel: 2
+BookmarkPageNumber: 434
+BookmarkBegin
+BookmarkTitle: 30.4 ATmega328P
+BookmarkLevel: 2
+BookmarkPageNumber: 435
+BookmarkBegin
+BookmarkTitle: 31. Packaging Information
+BookmarkLevel: 1
+BookmarkPageNumber: 436
+BookmarkBegin
+BookmarkTitle: 31.1 32A
+BookmarkLevel: 2
+BookmarkPageNumber: 436
+BookmarkBegin
+BookmarkTitle: 31.2 28M1
+BookmarkLevel: 2
+BookmarkPageNumber: 437
+BookmarkBegin
+BookmarkTitle: 31.3 32M1-A
+BookmarkLevel: 2
+BookmarkPageNumber: 438
+BookmarkBegin
+BookmarkTitle: 31.4 28P3
+BookmarkLevel: 2
+BookmarkPageNumber: 439
+BookmarkBegin
+BookmarkTitle: 32. Errata
+BookmarkLevel: 1
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.1 Errata ATmega48P
+BookmarkLevel: 2
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.1.1 Rev. C
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.1.2 Rev. B
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.1.3 Rev. A
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.2 Errata ATmega88P
+BookmarkLevel: 2
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.2.1 Rev. C
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.2.2 Rev. B
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.2.3 Rev. A
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.3 Errata ATmega168P
+BookmarkLevel: 2
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.3.1 Rev B
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.3.2 Rev A
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.4 Errata ATmega328P
+BookmarkLevel: 2
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.4.1 Rev C
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.4.2 Rev B
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 32.4.3 Rev A
+BookmarkLevel: 3
+BookmarkPageNumber: 441
+BookmarkBegin
+BookmarkTitle: 33. Datasheet Revision History
+BookmarkLevel: 1
+BookmarkPageNumber: 442
+BookmarkBegin
+BookmarkTitle: 33.1 Rev. 2545I-02/09
+BookmarkLevel: 2
+BookmarkPageNumber: 442
+BookmarkBegin
+BookmarkTitle: 33.2 Rev. 2545H-02/09
+BookmarkLevel: 2
+BookmarkPageNumber: 442
+BookmarkBegin
+BookmarkTitle: 33.3 Rev. 2545G-01/09
+BookmarkLevel: 2
+BookmarkPageNumber: 442
+BookmarkBegin
+BookmarkTitle: 33.4 Rev. 2545F-08/08
+BookmarkLevel: 2
+BookmarkPageNumber: 443
+BookmarkBegin
+BookmarkTitle: 33.5 Rev. 2545E-08/08
+BookmarkLevel: 2
+BookmarkPageNumber: 443
+BookmarkBegin
+BookmarkTitle: 33.6 Rev. 2545D-03/08
+BookmarkLevel: 2
+BookmarkPageNumber: 443
+BookmarkBegin
+BookmarkTitle: 33.7 Rev. 2545C-01/08
+BookmarkLevel: 2
+BookmarkPageNumber: 443
+BookmarkBegin
+BookmarkTitle: 33.8 Rev. 2545B-01/08
+BookmarkLevel: 2
+BookmarkPageNumber: 444
+BookmarkBegin
+BookmarkTitle: 33.9 Rev. 2545A-07/07
+BookmarkLevel: 2
+BookmarkPageNumber: 444
+BookmarkBegin
+BookmarkTitle: Table of Contents
+BookmarkLevel: 1
+BookmarkPageNumber: 445
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 74
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 75
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 76
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 77
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 78
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 79
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 80
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 81
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 82
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 83
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 84
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 85
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 86
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 87
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 88
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 89
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 90
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 91
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 92
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 93
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 94
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 95
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 96
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 97
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 98
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 99
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 100
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 101
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 102
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 103
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 104
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 105
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 106
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 107
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 108
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 109
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 110
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 111
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 112
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 113
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 114
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 115
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 116
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 117
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 118
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 119
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 120
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 121
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 122
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 123
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 124
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 125
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 126
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 127
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 128
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 129
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 130
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 131
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 132
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 133
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 134
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 135
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 136
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 137
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 138
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 139
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 140
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 141
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 142
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 143
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 144
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 145
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 146
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 147
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 148
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 149
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 150
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 151
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 152
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 153
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 154
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 155
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 156
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 157
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 158
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 159
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 160
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 161
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 162
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 163
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 164
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 165
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 166
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 167
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 168
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 169
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 170
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 171
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 172
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 173
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 174
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 175
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 176
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 177
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 178
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 179
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 180
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 181
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 182
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 183
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 184
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 185
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 186
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 187
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 188
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 189
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 190
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 191
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 192
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 193
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 194
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 195
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 196
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 197
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 198
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 199
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 200
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 201
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 202
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 203
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 204
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 205
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 206
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 207
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 208
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 209
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 210
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 211
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 212
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 213
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 214
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 215
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 216
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 217
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 218
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 219
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 220
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 221
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 222
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 223
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 224
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 225
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 226
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 227
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 228
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 229
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 230
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 231
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 232
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 233
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 234
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 235
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 236
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 237
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 238
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 239
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 240
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 241
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 242
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 243
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 244
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 245
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 246
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 247
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 248
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 249
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 250
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 251
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 252
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 253
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 254
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 255
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 256
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 257
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 258
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 259
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 260
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 261
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 262
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 263
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 264
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 265
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 266
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 267
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 268
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 269
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 270
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 271
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 272
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 273
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 274
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 275
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 276
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 277
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 278
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 279
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 280
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 281
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 282
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 283
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 284
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 285
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 286
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 287
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 288
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 289
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 290
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 291
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 292
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 293
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 294
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 295
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 296
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 297
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 298
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 299
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 300
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 301
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 302
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 303
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 304
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 305
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 306
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 307
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 308
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 309
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 310
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 311
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 312
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 313
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 314
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 315
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 316
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 317
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 318
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 319
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 320
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 321
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 322
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 323
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 324
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 325
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 326
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 327
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 328
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 329
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 330
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 331
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 332
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 333
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 334
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 335
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 336
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 337
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 338
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 339
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 340
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 341
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 342
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 343
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 344
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 345
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 346
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 347
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 348
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 349
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 350
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 351
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 352
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 353
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 354
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 355
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 356
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 357
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 358
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 359
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 360
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 361
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 362
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 363
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 364
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 365
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 366
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 367
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 368
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 369
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 370
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 371
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 372
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 373
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 374
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 375
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 376
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 377
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 378
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 379
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 380
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 381
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 382
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 383
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 384
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 385
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 386
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 387
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 388
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 389
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 390
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 391
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 392
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 393
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 394
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 395
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 396
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 397
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 398
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 399
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 400
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 401
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 402
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 403
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 404
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 405
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 406
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 407
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 408
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 409
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 410
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 411
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 412
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 413
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 414
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 415
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 416
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 417
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 418
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 419
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 420
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 421
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 422
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 423
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 424
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 425
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 426
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 427
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 428
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 429
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 430
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 431
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 432
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 433
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 434
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 435
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 436
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 437
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 438
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 439
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 440
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 441
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 442
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 443
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 444
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 445
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 446
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 447
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 448
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 449
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 450
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 451
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 452
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageLabelBegin
+PageLabelNewIndex: 01
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
