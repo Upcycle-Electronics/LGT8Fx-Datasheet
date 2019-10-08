@@ -3,7 +3,7 @@ InfoKey: Creator
 InfoValue: Microsoft? Word 2013
 InfoBegin
 InfoKey: ModDate
-InfoValue: D:20171115180256+08&apos;00&apos;
+InfoValue: D:20191007;
 InfoBegin
 InfoKey: CreationDate
 InfoValue: D:20171115180256+08&apos;00&apos;
@@ -17,1879 +17,1879 @@ PdfID0: 38d0eb34ccbf5d458e59d3665e40e581
 PdfID1: ede205abb393ce4cb7dc264524c6d9f9
 NumberOfPages: 267
 BookmarkBegin
-BookmarkTitle: LGT8FX8P_Series_Overview
+BookmarkTitle: LGT8FX8P Series Overview
 BookmarkLevel: 1
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Functional Overview
 BookmarkLevel: 2
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: System Framework
 BookmarkLevel: 2
 BookmarkPageNumber: 2
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Package Definition
 BookmarkLevel: 2
 BookmarkPageNumber: 3
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Pin Description
 BookmarkLevel: 2
 BookmarkPageNumber: 5
 BookmarkBegin
-BookmarkTitle: LGT8FX8P_Series_Programming_Manual v1.0.4
+BookmarkTitle: LGT8FX8P-Series Programming Manual v1.0.4J
 BookmarkLevel: 1
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: LGT8XM??
+BookmarkTitle: LGT8XM Core
 BookmarkLevel: 2
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: ?????????ALU?
+BookmarkTitle: Arithmetic Logic Unit (ALU)
 BookmarkLevel: 3
 BookmarkPageNumber: 10
 BookmarkBegin
-BookmarkTitle: ????? (SREG)
+BookmarkTitle: Status Register (SREG)
 BookmarkLevel: 3
 BookmarkPageNumber: 10
 BookmarkBegin
-BookmarkTitle: SREG ?????
+BookmarkTitle: SREG Register Definition
 BookmarkLevel: 4
 BookmarkPageNumber: 11
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: General Working Register
 BookmarkLevel: 3
 BookmarkPageNumber: 11
 BookmarkBegin
-BookmarkTitle: X/Y/Z???
+BookmarkTitle: X/Y/Z Register
 BookmarkLevel: 4
 BookmarkPageNumber: 12
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Stack Pointer
 BookmarkLevel: 3
 BookmarkPageNumber: 13
 BookmarkBegin
-BookmarkTitle: SPH/SPL?????????
+BookmarkTitle: SPH/SPL Stack Pointer Register Definition
 BookmarkLevel: 4
 BookmarkPageNumber: 13
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Instruction Execution Timing
 BookmarkLevel: 3
 BookmarkPageNumber: 13
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Reset And Interrupt Handling
 BookmarkLevel: 3
 BookmarkPageNumber: 14
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Interrupt Response Time
 BookmarkLevel: 3
 BookmarkPageNumber: 15
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Storage Unit
 BookmarkLevel: 2
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: ?????FLASH??????
+BookmarkTitle: System Programmable FLASH Program Storage Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: SRAM??????
+BookmarkTitle: SRAM Data Storage Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 17
 BookmarkBegin
-BookmarkTitle: ??I/O???
+BookmarkTitle: General Purpose I/O Register
 BookmarkLevel: 3
 BookmarkPageNumber: 18
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Peripheral Register Space
 BookmarkLevel: 3
 BookmarkPageNumber: 18
 BookmarkBegin
-BookmarkTitle: FLASH???(E2PCTL)
+BookmarkTitle: FLASH Controller (E2PCTL)
 BookmarkLevel: 3
 BookmarkPageNumber: 18
 BookmarkBegin
-BookmarkTitle: E2PCTL?????
+BookmarkTitle: E2PCTL Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 20
 BookmarkBegin
-BookmarkTitle: E2PCTL??E2PROM????
+BookmarkTitle: E2PCTL Analog E2Prom Interface Algorithm
 BookmarkLevel: 4
 BookmarkPageNumber: 20
 BookmarkBegin
-BookmarkTitle: E2PCTL??????
+BookmarkTitle: E2PCTL Continuous Programming Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 22
 BookmarkBegin
-BookmarkTitle: E2PCTL??FLASH????
+BookmarkTitle: E2PCTL Read And Write FLASH Program Space
 BookmarkLevel: 4
 BookmarkPageNumber: 23
 BookmarkBegin
-BookmarkTitle: E2PCTL??????
+BookmarkTitle: E2PCTL Interface Operation Flow
 BookmarkLevel: 4
 BookmarkPageNumber: 23
 BookmarkBegin
-BookmarkTitle: E2PCTL??FLASH????
+BookmarkTitle: E2PCTL Efficient FLASH Data Management
 BookmarkLevel: 4
 BookmarkPageNumber: 25
 BookmarkBegin
-BookmarkTitle: FLASH???????
+BookmarkTitle: FLASH Operation Protection Measures
 BookmarkLevel: 4
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Description
 BookmarkLevel: 3
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: FLASH?????- EEARH/EEARL
+BookmarkTitle: FLASH Address Register - EEARH/EEARL
 BookmarkLevel: 4
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: FLASH?????- EEDR/E2PD0
+BookmarkTitle: FLASH Data Register - EEDR/E2PD0
 BookmarkLevel: 4
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: FLASH?????- E2PD1
+BookmarkTitle: FLASH Data Register - E2PD1
 BookmarkLevel: 4
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: FLASH?????- E2PD2
+BookmarkTitle: FLASH Data Register - E2PD2
 BookmarkLevel: 4
 BookmarkPageNumber: 27
 BookmarkBegin
-BookmarkTitle: FLASH?????- E2PD3
+BookmarkTitle: FLASH Data Register - E2PD3
 BookmarkLevel: 4
 BookmarkPageNumber: 27
 BookmarkBegin
-BookmarkTitle: FLASH???????- ECCR
+BookmarkTitle: FLASH Mode Control Register - ECCR
 BookmarkLevel: 4
 BookmarkPageNumber: 27
 BookmarkBegin
-BookmarkTitle: FLASH???????- EECR
+BookmarkTitle: FLASH Access Control Register - EECR
 BookmarkLevel: 4
 BookmarkPageNumber: 28
 BookmarkBegin
-BookmarkTitle: ??I/O???- GPIOR2
+BookmarkTitle: General Purpose I/O Register - GPIOR2
 BookmarkLevel: 4
 BookmarkPageNumber: 28
 BookmarkBegin
-BookmarkTitle: ??I/O???- GPIOR1
+BookmarkTitle: General Purpose I/O Register - GPIOR1
 BookmarkLevel: 4
 BookmarkPageNumber: 29
 BookmarkBegin
-BookmarkTitle: ??I/O???- GPIOR0
+BookmarkTitle: General Purpose I/O Register - GPIOR0
 BookmarkLevel: 4
 BookmarkPageNumber: 29
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: System Clock And Configuration
 BookmarkLevel: 2
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: System Clock Distribution
 BookmarkLevel: 3
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Clock Source Selection
 BookmarkLevel: 3
 BookmarkPageNumber: 31
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Clock Source Control Timing
 BookmarkLevel: 4
 BookmarkPageNumber: 32
 BookmarkBegin
-BookmarkTitle: ?????????
+BookmarkTitle: System Clock Prescaler Control
 BookmarkLevel: 3
 BookmarkPageNumber: 33
 BookmarkBegin
-BookmarkTitle: ??RC?????
+BookmarkTitle: Internal RC Oscillator Calibration
 BookmarkLevel: 3
 BookmarkPageNumber: 33
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 33
 BookmarkBegin
-BookmarkTitle: 32MHz HFRC????????- RCMCAL
+BookmarkTitle: 32MHz HFRC Oscillator Calibration Register - RCMCAL
 BookmarkLevel: 4
 BookmarkPageNumber: 33
 BookmarkBegin
-BookmarkTitle: 32KHz RC????????- RCKCAL
+BookmarkTitle: 32KHz RC Oscillator Calibration Register - RCKCAL
 BookmarkLevel: 4
 BookmarkPageNumber: 34
 BookmarkBegin
-BookmarkTitle: ????????- PMCR
+BookmarkTitle: Clock Source Management Register - PMCR
 BookmarkLevel: 4
 BookmarkPageNumber: 34
 BookmarkBegin
-BookmarkTitle: ?????????- CLKPR
+BookmarkTitle: Master Clock Prescaler Register - CLKPR
 BookmarkLevel: 4
 BookmarkPageNumber: 34
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Power Management
 BookmarkLevel: 2
 BookmarkPageNumber: 36
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 36
 BookmarkBegin
-BookmarkTitle: AWSON????
+BookmarkTitle: AWSON Power Management
 BookmarkLevel: 3
 BookmarkPageNumber: 37
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Sleep Mode And Wake-Up Source
 BookmarkLevel: 3
 BookmarkPageNumber: 38
 BookmarkBegin
-BookmarkTitle: ????(IDLE)
+BookmarkTitle: Idle Mode (IDLE)
 BookmarkLevel: 3
 BookmarkPageNumber: 38
 BookmarkBegin
-BookmarkTitle: ADC??????
+BookmarkTitle: ADC Noise Suppression Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: ????(Save)
+BookmarkTitle: Power Saving Mode (Save)
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: ????DPS0
+BookmarkTitle: Power-Down Mode DPS0
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: ????DPS1
+BookmarkTitle: Power-Down Mode DPS1
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: ????DPS2
+BookmarkTitle: Power-Down Mode DPS2
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: FLASH??????????
+BookmarkTitle: FLASH Power Control And Fast Wake-Up
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Description
 BookmarkLevel: 3
 BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: ?????????- SMCR
+BookmarkTitle: Sleep Mode Control Register - SMCR
 BookmarkLevel: 4
 BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: ???????- PRR
+BookmarkTitle: Power Saving Control Register - PRR
 BookmarkLevel: 4
 BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: ???????- PRR1
+BookmarkTitle: Power Saving Control Register - PRR1
 BookmarkLevel: 4
 BookmarkPageNumber: 41
 BookmarkBegin
-BookmarkTitle: MCU?????- MCUCR
+BookmarkTitle: MCU Control Register - MCUCR
 BookmarkLevel: 4
 BookmarkPageNumber: 41
 BookmarkBegin
-BookmarkTitle: PD????????????- IOCWK
+BookmarkTitle: PD Group Level Change Wakeup Control Register - IOCWK
 BookmarkLevel: 4
 BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: DPS2???????- DPS2R
+BookmarkTitle: DPS2 Mode Control Register - DPS2R
 BookmarkLevel: 4
 BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: System Control And Reset
 BookmarkLevel: 2
 BookmarkPageNumber: 43
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 43
 BookmarkBegin
-BookmarkTitle: ???
+BookmarkTitle: Reset Source
 BookmarkLevel: 3
 BookmarkPageNumber: 43
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Power-On Reset
 BookmarkLevel: 4
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: External Reset
 BookmarkLevel: 4
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: ?????(LVD)??
+BookmarkTitle: Low Voltage Detection (LVD) Reset
 BookmarkLevel: 4
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Watchdog Reset
 BookmarkLevel: 4
 BookmarkPageNumber: 45
 BookmarkBegin
-BookmarkTitle: ?????OCD??
+BookmarkTitle: Software Reset, OCD Reset
 BookmarkLevel: 4
 BookmarkPageNumber: 45
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Watchdog Timer
 BookmarkLevel: 3
 BookmarkPageNumber: 46
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: ????(LVD)?????- VDTCR
+BookmarkTitle: Low Voltage Detection (LVD) Control Register - VDTCR
 BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: IO???????- PMX2
+BookmarkTitle: IO Function Multiplexing Register - PMX2
 BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: MCU?????- MCUSR
+BookmarkTitle: MCU Status Register - MCUSR
 BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
-BookmarkTitle: ??????????- WDTCSR
+BookmarkTitle: Watchdog Control Status Register - WDTCSR
 BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Interrupt And Interrupt Vector
 BookmarkLevel: 2
 BookmarkPageNumber: 53
 BookmarkBegin
-BookmarkTitle: LGT8F88P??????
+BookmarkTitle: LGT8F88P Interrupt Vector List
 BookmarkLevel: 3
 BookmarkPageNumber: 53
 BookmarkBegin
-BookmarkTitle: LGT8F168P/328P??????
+BookmarkTitle: LGT8F168P/328P Interrupt Vector List
 BookmarkLevel: 3
 BookmarkPageNumber: 54
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Interrupt Vector Processing
 BookmarkLevel: 3
 BookmarkPageNumber: 55
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 56
 BookmarkBegin
-BookmarkTitle: MCU?????- MCUCR
+BookmarkTitle: MCU Control Register - MCUCR
 BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
-BookmarkTitle: ?????????? - IVBASE
+BookmarkTitle: Interrupt Vector Base Address Register - IVBASE
 BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: External Interrupt
 BookmarkLevel: 2
 BookmarkPageNumber: 57
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 57
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 57
 BookmarkBegin
-BookmarkTitle: ?????????A- EICRA
+BookmarkTitle: External Interrupt Control Register A- EICRA
 BookmarkLevel: 4
 BookmarkPageNumber: 57
 BookmarkBegin
-BookmarkTitle: ?????????- EIMSK
+BookmarkTitle: External Interrupt Mask Register - EIMSK
 BookmarkLevel: 4
 BookmarkPageNumber: 58
 BookmarkBegin
-BookmarkTitle: ?????????- EIFR
+BookmarkTitle: External Interrupt Flag Register - EIFR
 BookmarkLevel: 4
 BookmarkPageNumber: 59
 BookmarkBegin
-BookmarkTitle: ?????(uDSC)
+BookmarkTitle: Operational Accelerator (uDSC)
 BookmarkLevel: 2
 BookmarkPageNumber: 60
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 60
 BookmarkBegin
-BookmarkTitle: 16? LD/ST????
+BookmarkTitle: 16-Bit LD/ST Mode Of Operation
 BookmarkLevel: 3
 BookmarkPageNumber: 61
 BookmarkBegin
-BookmarkTitle: uDSC??????
+BookmarkTitle: uDSC Operation Instruction Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 63
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 64
 BookmarkBegin
-BookmarkTitle: DSCR -  ???????
+BookmarkTitle: DSCR - Control Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 64
 BookmarkBegin
-BookmarkTitle: DSIR ? ???????
+BookmarkTitle: DSIR – Operation Instruction Register
 BookmarkLevel: 4
 BookmarkPageNumber: 65
 BookmarkBegin
-BookmarkTitle: DSDX -  ??????DSDX
+BookmarkTitle: DSDX - Operand Register DSDX
 BookmarkLevel: 4
 BookmarkPageNumber: 65
 BookmarkBegin
-BookmarkTitle: DSDY -  ??????DSDY
+BookmarkTitle: DSDY - Operand Register DSDY
 BookmarkLevel: 4
 BookmarkPageNumber: 65
 BookmarkBegin
-BookmarkTitle: DSAL -  32????DA??16?
+BookmarkTitle: DSAL - The Lower 16 Bits Of The 32-Bit Accumulator DA
 BookmarkLevel: 4
 BookmarkPageNumber: 65
 BookmarkBegin
-BookmarkTitle: DSAH -  32????DA??16?
+BookmarkTitle: DSAH - The Upper 16 Bits Of The 32-Bit Accumulator DA
 BookmarkLevel: 4
 BookmarkPageNumber: 66
 BookmarkBegin
-BookmarkTitle: DSSD -  DA???????
+BookmarkTitle: DSSD - DA Saturation Operation Register
 BookmarkLevel: 4
 BookmarkPageNumber: 66
 BookmarkBegin
-BookmarkTitle: uDSC ????
+BookmarkTitle: uDSC Application Example
 BookmarkLevel: 3
 BookmarkPageNumber: 66
 BookmarkBegin
-BookmarkTitle: ??1. ???????
+BookmarkTitle: Example 1. Basic Configuration And Operation
 BookmarkLevel: 4
 BookmarkPageNumber: 66
 BookmarkBegin
-BookmarkTitle: ???????(GPIO)
+BookmarkTitle: General Purpose Programmable Port (GPIO)
 BookmarkLevel: 2
 BookmarkPageNumber: 67
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 67
 BookmarkBegin
-BookmarkTitle: ????/????
+BookmarkTitle: General Purpose Input/Output Port
 BookmarkLevel: 3
 BookmarkPageNumber: 68
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Port Usage Configuration
 BookmarkLevel: 4
 BookmarkPageNumber: 68
 BookmarkBegin
-BookmarkTitle: ??/????
+BookmarkTitle: Input/Output Switching
 BookmarkLevel: 4
 BookmarkPageNumber: 69
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Read Port Value
 BookmarkLevel: 4
 BookmarkPageNumber: 69
 BookmarkBegin
-BookmarkTitle: ?????????
+BookmarkTitle: Input Enable And Sleep Control
 BookmarkLevel: 4
 BookmarkPageNumber: 71
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Quickly Flip Port Status
 BookmarkLevel: 4
 BookmarkPageNumber: 71
 BookmarkBegin
-BookmarkTitle: ??/??????
+BookmarkTitle: Digital/Analog Multiplex Port
 BookmarkLevel: 4
 BookmarkPageNumber: 71
 BookmarkBegin
-BookmarkTitle: ?????????
+BookmarkTitle: High Current Push-Pull Drive Port
 BookmarkLevel: 4
 BookmarkPageNumber: 71
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Handling Of Idle Ports
 BookmarkLevel: 4
 BookmarkPageNumber: 72
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Port Multiplexing
 BookmarkLevel: 3
 BookmarkPageNumber: 72
 BookmarkBegin
-BookmarkTitle: ??B????
+BookmarkTitle: Port B Multiplexing Function
 BookmarkLevel: 4
 BookmarkPageNumber: 73
 BookmarkBegin
-BookmarkTitle: XTALI/TOSC2/PCINT7 ? ??B??7
+BookmarkTitle: XTALI/TOSC2/PCINT7 – Port B Pin 7
 BookmarkLevel: 5
 BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: XTALO/TOSC1/PCINT6- ??B??6
+BookmarkTitle: XTALO/TOSC1/PCINT6- Port B Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: SCK/PCINT5- ??B??5
+BookmarkTitle: SCK/PCINT5- Port B Pin 5
 BookmarkLevel: 5
 BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: MISO/PCINT4- ??B??4
+BookmarkTitle: MISO/PCINT4-Port B Pin 4
 BookmarkLevel: 5
 BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: MOSI/OC2A/PCINT3- ??B??3
+BookmarkTitle: MOSI/OC2A/PCINT3-Port B Pin 3
 BookmarkLevel: 5
 BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: SSN/OC1B/PCINT2- ??B??2
+BookmarkTitle: SSN/OC1B/PCINT2-Port B Pin 2
 BookmarkLevel: 5
 BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: OC1A/PCINT1- ??B??1
+BookmarkTitle: OC1A/PCINT1-port B pin 1
 BookmarkLevel: 5
 BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: ICP1/CLKO/PCINT0- ??B??0
+BookmarkTitle: ICP1/CLKO/PCINT0- Port B Pin 0
 BookmarkLevel: 5
 BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: ??C????
+BookmarkTitle: Port C Multiplexing Function
 BookmarkLevel: 4
 BookmarkPageNumber: 76
 BookmarkBegin
-BookmarkTitle: ADC8/APN2/PCINT15- ??C??6
+BookmarkTitle: ADC8/APN2/PCINT15- Port C Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 76
 BookmarkBegin
-BookmarkTitle: RESETN/PCINT14- ??C??6
+BookmarkTitle: RESETN/PCINT14- Port C Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 76
 BookmarkBegin
-BookmarkTitle: SCL/ADC5/PCINT13- ??C??5
+BookmarkTitle: SCL/ADC5/PCINT13- Port C Pin 5
 BookmarkLevel: 5
 BookmarkPageNumber: 76
 BookmarkBegin
-BookmarkTitle: SDA/ADC4/PCINT12- ??C??4
+BookmarkTitle: SDA/ADC4/PCINT12- Port C Pin 4
 BookmarkLevel: 5
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: ADC3/APN1/PCINT11- ??C??3
+BookmarkTitle: ADC3/APN1/PCINT11- Port C Pin 3
 BookmarkLevel: 5
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: ADC2/APN0/PCINT10- ??C??2
+BookmarkTitle: ADC2/APN0/PCINT10- Port C Pin 2
 BookmarkLevel: 5
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: ADC1/APP1/PCINT9- ??C??1
+BookmarkTitle: ADC1/APP1/PCINT9- Port C Pin 1
 BookmarkLevel: 5
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: ADC0/APP0/PCINT8- ??C??0
+BookmarkTitle: ADC0/APP0/PCINT8- Port C Pin 0
 BookmarkLevel: 5
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: ??D????
+BookmarkTitle: Port D multiplexing function
 BookmarkLevel: 4
 BookmarkPageNumber: 78
 BookmarkBegin
-BookmarkTitle: ACXN/OC2B/PCINT23- ??D??7
+BookmarkTitle: ACXN/OC2B/PCINT23- Port D Pin 7
 BookmarkLevel: 5
 BookmarkPageNumber: 78
 BookmarkBegin
-BookmarkTitle: AC0P/OC0A/PCINT22- ??D??6
+BookmarkTitle: AC0P/OC0A/PCINT22- Port D Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 78
 BookmarkBegin
-BookmarkTitle: T1/OC0B/PCINT21- ??D??5
+BookmarkTitle: T1/OC0B/PCINT21- Port D Pin 5
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: XCK/T0/DAO/PCINT20- ??D??4
+BookmarkTitle: XCK/T0/DAO/PCINT20- Port D Pin 4
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: INT1/OC2B/PCINT19- ??D??3
+BookmarkTitle: INT1/OC2B/PCINT19- Port D Pin 3
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: INT0/OC3B/AC0O/PCINT18- ??D??2
+BookmarkTitle: INT0/OC3B/AC0O/PCINT18- Port D Pin 2
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: TXD/OC3A/PCINT17- ??D??1
+BookmarkTitle: TXD/OC3A/PCINT17- Port D Pin 1
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: RXD/PCINT16- ??D??0
+BookmarkTitle: RXD/PCINT16- Port D Pin 0
 BookmarkLevel: 5
 BookmarkPageNumber: 79
 BookmarkBegin
-BookmarkTitle: ??E????
+BookmarkTitle: Port E Multiplexing Function
 BookmarkLevel: 4
 BookmarkPageNumber: 80
 BookmarkBegin
-BookmarkTitle: ADC11/PCINT31- ??E??7
+BookmarkTitle: ADC11/PCINT31- Port E Pin 7
 BookmarkLevel: 5
 BookmarkPageNumber: 80
 BookmarkBegin
-BookmarkTitle: AVREF/ADC10/PCINT30- ??E??6
+BookmarkTitle: AVREF/ADC10/PCINT30- Port E Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 80
 BookmarkBegin
-BookmarkTitle: CLKO/AC1O/PCINT29- ??E??5
+BookmarkTitle: CLKO/AC1O/PCINT29- Port E Pin 5
 BookmarkLevel: 5
 BookmarkPageNumber: 80
 BookmarkBegin
-BookmarkTitle: OC0A/PCINT28- ??E??4
+BookmarkTitle: OC0A/PCINT28- Port E Pin 4
 BookmarkLevel: 5
 BookmarkPageNumber: 81
 BookmarkBegin
-BookmarkTitle: ADC7/ AC1N/PCINT27- ??E??3
+BookmarkTitle: ADC7/ AC1N/PCINT27- Port E Pin 3
 BookmarkLevel: 5
 BookmarkPageNumber: 81
 BookmarkBegin
-BookmarkTitle: SWD/PCINT26- ??E??2
+BookmarkTitle: SWD/PCINT26- Port E Pin 2
 BookmarkLevel: 5
 BookmarkPageNumber: 81
 BookmarkBegin
-BookmarkTitle: ADC6/ACXP/PCINT25- ??E??1
+BookmarkTitle: ADC6/ACXP/PCINT25- Port E Pin 1
 BookmarkLevel: 5
 BookmarkPageNumber: 81
 BookmarkBegin
-BookmarkTitle: SWC/APN4/PCINT24- ??E??0
+BookmarkTitle: SWC/APN4/PCINT24- Port E Pin 0
 BookmarkLevel: 5
 BookmarkPageNumber: 81
 BookmarkBegin
-BookmarkTitle: ??F????
+BookmarkTitle: Port F Multiplexing Function
 BookmarkLevel: 4
 BookmarkPageNumber: 82
 BookmarkBegin
-BookmarkTitle: OC2B/PCINT39 - ??F??7
+BookmarkTitle: OC2B/PCINT39 - Port F Pin 7
 BookmarkLevel: 5
 BookmarkPageNumber: 82
 BookmarkBegin
-BookmarkTitle: OC2A/T3/PCINT38 - ??F??6
+BookmarkTitle: OC2A/T3/PCINT38 - Port F Pin 6
 BookmarkLevel: 5
 BookmarkPageNumber: 82
 BookmarkBegin
-BookmarkTitle: 0C1A/PCINT37 - ??F??5
+BookmarkTitle: 0C1A/PCINT37 - Port F pin 5
 BookmarkLevel: 5
 BookmarkPageNumber: 82
 BookmarkBegin
-BookmarkTitle: ICP3/OC1B/PCINT36 - ??F??4
+BookmarkTitle: ICP3/OC1B/PCINT36 - Port F Pin 4
 BookmarkLevel: 5
 BookmarkPageNumber: 82
 BookmarkBegin
-BookmarkTitle: OC3C/OC0B/PCINT35- ??F??3
+BookmarkTitle: OC3C/OC0B/PCINT35- Port F Pin 3
 BookmarkLevel: 5
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: OC3B/PCINT34- ??F??2
+BookmarkTitle: OC3B/PCINT34- Port F Pin 2
 BookmarkLevel: 5
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: OC3A/PCINT33- ??F??1
+BookmarkTitle: OC3A/PCINT33- Port F Pin 1
 BookmarkLevel: 5
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: ADC9/APN3/PCINT32- ??F??0
+BookmarkTitle: ADC9/APN3/PCINT32- Port F Pin 0
 BookmarkLevel: 5
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: ??B???????- PORTB
+BookmarkTitle: Port B Output Data Register - PORTB
 BookmarkLevel: 4
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: ??B?????- DDRB
+BookmarkTitle: Port B Direction Register - DDRB
 BookmarkLevel: 4
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: ??B???????- PINB
+BookmarkTitle: Port B Input Data Register - PINB
 BookmarkLevel: 4
 BookmarkPageNumber: 84
 BookmarkBegin
-BookmarkTitle: ??C???????- PORTC
+BookmarkTitle: Port C Output Data Register - PORTC
 BookmarkLevel: 4
 BookmarkPageNumber: 84
 BookmarkBegin
-BookmarkTitle: ??C?????- DDRC
+BookmarkTitle: Port C Direction Register - DDRC
 BookmarkLevel: 4
 BookmarkPageNumber: 84
 BookmarkBegin
-BookmarkTitle: ??C???????- PINC
+BookmarkTitle: Port C Input Data Register - PINC
 BookmarkLevel: 4
 BookmarkPageNumber: 84
 BookmarkBegin
-BookmarkTitle: ??D???????- PORTD
+BookmarkTitle: Port D Output Data Register - PORTD
 BookmarkLevel: 4
 BookmarkPageNumber: 84
 BookmarkBegin
-BookmarkTitle: ??D?????- DDRD
+BookmarkTitle: Port D Direction Register - DDRD
 BookmarkLevel: 4
 BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: ??D???????- PIND
+BookmarkTitle: Port D Input Data Register - PIND
 BookmarkLevel: 4
 BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: ??E???????- PORTE
+BookmarkTitle: Port E Output Data Register - PORTE
 BookmarkLevel: 4
 BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: ??E?????- DDRE
+BookmarkTitle: Port E Direction Register - DDRE
 BookmarkLevel: 4
 BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: ??E???????- PINE
+BookmarkTitle: Port E Input Data Register - PINE
 BookmarkLevel: 4
 BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: ??F?????- PORTF
+BookmarkTitle: Port F Output Register - PORTF
 BookmarkLevel: 4
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: ??F???????- DDRF
+BookmarkTitle: Port F Direction Control Register - DDRF
 BookmarkLevel: 4
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: ??F?????- PINF
+BookmarkTitle: Port F Status Register - PINF
 BookmarkLevel: 4
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: ?????????- HDR
+BookmarkTitle: Port Drive Control Register - HDR
 BookmarkLevel: 4
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: ?????????0- PMX0
+BookmarkTitle: Port Multiplexing Control Register 0- PMX0
 BookmarkLevel: 4
 BookmarkPageNumber: 87
 BookmarkBegin
-BookmarkTitle: ?????????1- PMX1
+BookmarkTitle: Port Multiplexing Control Register 1 - PMX1
 BookmarkLevel: 4
 BookmarkPageNumber: 88
 BookmarkBegin
-BookmarkTitle: ?????????2 ? PMX2
+BookmarkTitle: Port Multiplexing Control Register 2 – PMX2
 BookmarkLevel: 4
 BookmarkPageNumber: 88
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Pin Change Interrupt
 BookmarkLevel: 2
 BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: PCICR ? ???????????
+BookmarkTitle: PCICR – Pin Change Interrupt Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: PCIFR ? ???????????
+BookmarkTitle: PCIFR – Pin Change Interrupt Flag Register
 BookmarkLevel: 4
 BookmarkPageNumber: 90
 BookmarkBegin
-BookmarkTitle: PCMSK0 ? ???????????0
+BookmarkTitle: PCMSK0 – Pin Change Interrupt Mask Register 0
 BookmarkLevel: 4
 BookmarkPageNumber: 91
 BookmarkBegin
-BookmarkTitle: PCMSK1 ? ???????????1
+BookmarkTitle: PCMSK1 – Pin Change Interrupt Mask Register 1
 BookmarkLevel: 4
 BookmarkPageNumber: 92
 BookmarkBegin
-BookmarkTitle: PCMSK2 ? ???????????2
+BookmarkTitle: PCMSK2 – Pin Change Interrupt Mask Register 2
 BookmarkLevel: 4
 BookmarkPageNumber: 93
 BookmarkBegin
-BookmarkTitle: PCMSK3 ? ???????????3
+BookmarkTitle: PCMSK3 – Pin Change Interrupt Mask Register 3
 BookmarkLevel: 4
 BookmarkPageNumber: 94
 BookmarkBegin
-BookmarkTitle: PCMSK4 ? ???????????4
+BookmarkTitle: PCMSK4 – Pin Change Interrupt Mask Register 4
 BookmarkLevel: 4
 BookmarkPageNumber: 95
 BookmarkBegin
-BookmarkTitle: ??/???0 (TMR0)
+BookmarkTitle: Timer/Counter 0 (TMR0)
 BookmarkLevel: 2
 BookmarkPageNumber: 97
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 97
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Operating Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 98
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Normal Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 99
 BookmarkBegin
-BookmarkTitle: CTC??
+BookmarkTitle: CTC Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 99
 BookmarkBegin
-BookmarkTitle: ??PWM??
+BookmarkTitle: Fast PWM mode
 BookmarkLevel: 4
 BookmarkPageNumber: 99
 BookmarkBegin
-BookmarkTitle: ????PWM??
+BookmarkTitle: Phase Correction PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 100
 BookmarkBegin
-BookmarkTitle: PWM??????????
+BookmarkTitle: Automatic Shutdown And Restart Of PWM Output
 BookmarkLevel: 4
 BookmarkPageNumber: 100
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Dead Time Control
 BookmarkLevel: 3
 BookmarkPageNumber: 101
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: High Speed Clock Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 102
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 103
 BookmarkBegin
-BookmarkTitle: TC0?????A- TCCR0A
+BookmarkTitle: TC0 Control Register A- TCCR0A
 BookmarkLevel: 4
 BookmarkPageNumber: 103
 BookmarkBegin
-BookmarkTitle: TC0?????B- TCCR0B
+BookmarkTitle: TC0 Control Register B- TCCR0B
 BookmarkLevel: 4
 BookmarkPageNumber: 104
 BookmarkBegin
-BookmarkTitle: TC0?????C ? TCCR0C
+BookmarkTitle: TC0 Control Register C – TCCR0C
 BookmarkLevel: 4
 BookmarkPageNumber: 107
 BookmarkBegin
-BookmarkTitle: TC0??????- TCNT0
+BookmarkTitle: TC0 count value register - TCNT0
 BookmarkLevel: 4
 BookmarkPageNumber: 108
 BookmarkBegin
-BookmarkTitle: TC0???????A- OCR0A
+BookmarkTitle: TC0 output compare register A- OCR0A
 BookmarkLevel: 4
 BookmarkPageNumber: 109
 BookmarkBegin
-BookmarkTitle: TC0???????B- OCR0B
+BookmarkTitle: TC0 output compare register B- OCR0B
 BookmarkLevel: 4
 BookmarkPageNumber: 109
 BookmarkBegin
-BookmarkTitle: TC0???????- TIMSK0
+BookmarkTitle: TC0 Interrupt Mask Register - TIMSK0
 BookmarkLevel: 4
 BookmarkPageNumber: 110
 BookmarkBegin
-BookmarkTitle: TC0???????- TIFR0
+BookmarkTitle: TC0 Interrupt Flag Register - TIFR0
 BookmarkLevel: 4
 BookmarkPageNumber: 110
 BookmarkBegin
-BookmarkTitle: DTR0 - TC0?????????
+BookmarkTitle: DTR0 - TC0 dead time control register
 BookmarkLevel: 4
 BookmarkPageNumber: 111
 BookmarkBegin
-BookmarkTitle: TCKCSR - TC??????????
+BookmarkTitle: TCKCSR - TC Clock Control and Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 112
 BookmarkBegin
-BookmarkTitle: ??/???1 (TMR1)
+BookmarkTitle: Timer/Counter 1 (TMR1)
 BookmarkLevel: 2
 BookmarkPageNumber: 113
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 113
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Operating Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 114
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Normal Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 115
 BookmarkBegin
-BookmarkTitle: CTC??
+BookmarkTitle: CTC Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 115
 BookmarkBegin
-BookmarkTitle: ??PWM??
+BookmarkTitle: Fast PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 116
 BookmarkBegin
-BookmarkTitle: ????PWM??
+BookmarkTitle: Phase Correction PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 116
 BookmarkBegin
-BookmarkTitle: ??????PWM??
+BookmarkTitle: Phase Frequency Correction PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 117
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Input Capture Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 118
 BookmarkBegin
-BookmarkTitle: PWM??????????
+BookmarkTitle: Automatic Shutdown And Restart Of PWM Output
 BookmarkLevel: 4
 BookmarkPageNumber: 118
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Dead Time Control
 BookmarkLevel: 3
 BookmarkPageNumber: 119
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: High Speed Counting Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 120
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 121
 BookmarkBegin
-BookmarkTitle: TCCR1A ?TC1?????A
+BookmarkTitle: TCCR1A – TC1 Control Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 122
 BookmarkBegin
-BookmarkTitle: TCCR1B ?TC1?????B
+BookmarkTitle: TCCR1B – TC1 Control Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 123
 BookmarkBegin
-BookmarkTitle: TCCR1C ?TC1?????C
+BookmarkTitle: TCCR1C – TC1 Control Register C
 BookmarkLevel: 4
 BookmarkPageNumber: 125
 BookmarkBegin
-BookmarkTitle: TCCR1D ?TC1?????D
+BookmarkTitle: TCCR1D – TC1 Control Register D
 BookmarkLevel: 4
 BookmarkPageNumber: 126
 BookmarkBegin
-BookmarkTitle: TCNT1L ?TC1?????????
+BookmarkTitle: TCNT1L – TCNT1L – TC1 Count Value Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 127
 BookmarkBegin
-BookmarkTitle: TCNT1H ?TC1?????????
+BookmarkTitle: TCNT1H – TC1 Count Value Register high Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 128
 BookmarkBegin
-BookmarkTitle: ICR1L ?TC1??????????
+BookmarkTitle: ICR1L – TC1 Input Capture Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 128
 BookmarkBegin
-BookmarkTitle: ICR1H ?TC1??????????
+BookmarkTitle: ICR1H – TC1 Input Capture Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: OCR1AL ?TC1???????A???
+BookmarkTitle: OCR1AL – TC1 Output Compare Register A Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: OCR1AH ?TC1???????A???
+BookmarkTitle: OCR1AH – TC1 Output Compare Register A High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 130
 BookmarkBegin
-BookmarkTitle: OCR1BL ?TC1???????B???
+BookmarkTitle: OCR1BL – TC1 Output Compare Register B Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 130
 BookmarkBegin
-BookmarkTitle: OCR1BH ?TC1???????B???
+BookmarkTitle: OCR1BH – TC1 Output Compare Register B High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 131
 BookmarkBegin
-BookmarkTitle: TIMSK1 ? TC1???????
+BookmarkTitle: TIMSK1 – TC1 Interrupt Mask Register
 BookmarkLevel: 4
 BookmarkPageNumber: 131
 BookmarkBegin
-BookmarkTitle: TIFR1 ? TC1???????
+BookmarkTitle: TIFR1 – TC1 Interrupt Flag Register
 BookmarkLevel: 4
 BookmarkPageNumber: 132
 BookmarkBegin
-BookmarkTitle: DTR1L ?TC1??????????
+BookmarkTitle: DTR1L – TC1 Dead Time Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 132
 BookmarkBegin
-BookmarkTitle: DTR1H ?TC1??????????
+BookmarkTitle: DTR1H – TC1 Dead Time Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 133
 BookmarkBegin
-BookmarkTitle: TCKCSR ?TC?????????
+BookmarkTitle: TCKCSR – TC Clock Control Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 133
 BookmarkBegin
-BookmarkTitle: TMR0/1/3????
+BookmarkTitle: TMR0/1/3 Prescaler
 BookmarkLevel: 2
 BookmarkPageNumber: 134
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 134
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Internal Clock Source
 BookmarkLevel: 3
 BookmarkPageNumber: 134
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Divider Reset
 BookmarkLevel: 3
 BookmarkPageNumber: 135
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Reuse Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 135
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Single Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 135
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: External Clock Source
 BookmarkLevel: 3
 BookmarkPageNumber: 135
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 136
 BookmarkBegin
-BookmarkTitle: GTCCR ? ????????????
+BookmarkTitle: GTCCR – General Purpose Timer Counter Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 136
 BookmarkBegin
-BookmarkTitle: PSSR ? ?????????
+BookmarkTitle: PSSR – Prescaler Select Register
 BookmarkLevel: 4
 BookmarkPageNumber: 136
 BookmarkBegin
-BookmarkTitle: ??/???2 (TMR2)
+BookmarkTitle: Timer/Counter 2 (TMR2)
 BookmarkLevel: 2
 BookmarkPageNumber: 138
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 138
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Operating Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 139
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Normal Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 139
 BookmarkBegin
-BookmarkTitle: CTC??
+BookmarkTitle: CTC Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 139
 BookmarkBegin
-BookmarkTitle: ??PWM??
+BookmarkTitle: Fast PWM Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 140
 BookmarkBegin
-BookmarkTitle: ????PWM??
+BookmarkTitle: Phase correction PWM Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 140
 BookmarkBegin
-BookmarkTitle: TC2???????
+BookmarkTitle: TC2 Asynchronous Operation Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 141
 BookmarkBegin
-BookmarkTitle: TC2?????
+BookmarkTitle: TC2 Prescaler
 BookmarkLevel: 3
 BookmarkPageNumber: 142
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 142
 BookmarkBegin
-BookmarkTitle: TCCR2A?TC2?????A
+BookmarkTitle: TCCR2A–TC2 Control Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 143
 BookmarkBegin
-BookmarkTitle: TCCR2B ?TC2?????B
+BookmarkTitle: TCCR2B – TC2 Control Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 144
 BookmarkBegin
-BookmarkTitle: TCNT2 ?TC2??????
+BookmarkTitle: TCNT2 – TC2 Count Value Register
 BookmarkLevel: 4
 BookmarkPageNumber: 146
 BookmarkBegin
-BookmarkTitle: OCR2A ? TC2???????A
+BookmarkTitle: OCR2A – TC2 Output Compare Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 146
 BookmarkBegin
-BookmarkTitle: OCR2B ? TC2???????B
+BookmarkTitle: OCR2B – TC2 Output Compare Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 146
 BookmarkBegin
-BookmarkTitle: TIMSK2 ? TC2???????
+BookmarkTitle: TIMSK2 – TC2 Interrupt Mask Register
 BookmarkLevel: 4
 BookmarkPageNumber: 147
 BookmarkBegin
-BookmarkTitle: TIFR2 ? TC2???????
+BookmarkTitle: TIFR2 – TC2 Interrupt Flag Register
 BookmarkLevel: 4
 BookmarkPageNumber: 147
 BookmarkBegin
-BookmarkTitle: ASSR ? ?????????
+BookmarkTitle: ASSR – Asynchronous Interface Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 148
 BookmarkBegin
-BookmarkTitle: ??/???3 (TMR3)
+BookmarkTitle: Timer/Counter 3 (TMR3)
 BookmarkLevel: 2
 BookmarkPageNumber: 150
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 150
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Operating Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 151
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Normal Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 152
 BookmarkBegin
-BookmarkTitle: CTC??
+BookmarkTitle: CTC Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 152
 BookmarkBegin
-BookmarkTitle: ??PWM??
+BookmarkTitle: Fast PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 152
 BookmarkBegin
-BookmarkTitle: ????PWM??
+BookmarkTitle: Phase correction PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 153
 BookmarkBegin
-BookmarkTitle: ??????PWM??
+BookmarkTitle: Phase Frequency Correction PWM Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 154
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Input Capture Mode
 BookmarkLevel: 4
 BookmarkPageNumber: 155
 BookmarkBegin
-BookmarkTitle: PWM??????????
+BookmarkTitle: Automatic Shutdown And Restart Of PWM Output
 BookmarkLevel: 4
 BookmarkPageNumber: 155
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Dead Time Control
 BookmarkLevel: 3
 BookmarkPageNumber: 156
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 157
 BookmarkBegin
-BookmarkTitle: TCCR3A?TC3?????A
+BookmarkTitle: TCCR3A–TC3 Control Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 158
 BookmarkBegin
-BookmarkTitle: TCCR3B?TC3?????B
+BookmarkTitle: TCCR3B–TC3 Control Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 160
 BookmarkBegin
-BookmarkTitle: TCCR3C?TC3?????C
+BookmarkTitle: TCCR3C–TC3 Control Register C
 BookmarkLevel: 4
 BookmarkPageNumber: 161
 BookmarkBegin
-BookmarkTitle: TCCR3D?TC3?????D
+BookmarkTitle: TCCR3D–TC3 Control Register D
 BookmarkLevel: 4
 BookmarkPageNumber: 162
 BookmarkBegin
-BookmarkTitle: TCNT3L?TC3?????????
+BookmarkTitle: TCNT3L–TC3 Counter Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 163
 BookmarkBegin
-BookmarkTitle: TCNT3H?TC3?????????
+BookmarkTitle: TCNT3H–TC3 Counter Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 164
 BookmarkBegin
-BookmarkTitle: ICR3L?TC3????????
+BookmarkTitle: ICR3L–TC3 Capture Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 164
 BookmarkBegin
-BookmarkTitle: ICR3H?TC3????????
+BookmarkTitle: ICR3H–TC3 capture Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 165
 BookmarkBegin
-BookmarkTitle: OCR3AL?TC3???????A???
+BookmarkTitle: OCR3AL–TC3 Output Compare Register A Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 165
 BookmarkBegin
-BookmarkTitle: OCR3AH?TC3???????A???
+BookmarkTitle: OCR3AH–TC3 Output Compare Register A High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 165
 BookmarkBegin
-BookmarkTitle: OCR3BL?TC3???????B???
+BookmarkTitle: OCR3BL–TC3 Output Compare Register B Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 166
 BookmarkBegin
-BookmarkTitle: OCR3BH?TC3???????B???
+BookmarkTitle: OCR3BH–TC3 Output Compare Register B High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 166
 BookmarkBegin
-BookmarkTitle: OCR3CL?TC3???????C???
+BookmarkTitle: OCR3CL–TC3 Output Compare Register C Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 167
 BookmarkBegin
-BookmarkTitle: OCR3CH?TC3???????C???
+BookmarkTitle: OCR3CH–TC3 Output Compare Register C High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 167
 BookmarkBegin
-BookmarkTitle: DTR3L?TC3??????????
+BookmarkTitle: DTR3L–TC3 Dead Time Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 167
 BookmarkBegin
-BookmarkTitle: DTR3H?TC3??????????
+BookmarkTitle: DTR3H–TC3 Dead Time Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 168
 BookmarkBegin
-BookmarkTitle: TIMSK3?TC3???????
+BookmarkTitle: TIMSK3–TC3 Interrupt Mask Register
 BookmarkLevel: 4
 BookmarkPageNumber: 168
 BookmarkBegin
-BookmarkTitle: TIFR3?TC3???????
+BookmarkTitle: TIFR3–TC3 Interrupt Flag Register
 BookmarkLevel: 4
 BookmarkPageNumber: 169
 BookmarkBegin
-BookmarkTitle: ????????(SPI)
+BookmarkTitle: Synchronous Serial Peripheral Interface (SPI)
 BookmarkLevel: 2
 BookmarkPageNumber: 170
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 170
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Clock Generation
 BookmarkLevel: 3
 BookmarkPageNumber: 171
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Sending And Receiving
 BookmarkLevel: 3
 BookmarkPageNumber: 171
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Single Line Transmission And Reception
 BookmarkLevel: 3
 BookmarkPageNumber: 171
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Host Two-Wire Reception
 BookmarkLevel: 3
 BookmarkPageNumber: 171
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Data Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 172
 BookmarkBegin
-BookmarkTitle: SPSS????
+BookmarkTitle: SPSS Pin Function
 BookmarkLevel: 3
 BookmarkPageNumber: 173
 BookmarkBegin
-BookmarkTitle: SPI???
+BookmarkTitle: SPI Initialization
 BookmarkLevel: 3
 BookmarkPageNumber: 173
 BookmarkBegin
-BookmarkTitle: SPI?????
+BookmarkTitle: SPI Host Initialization
 BookmarkLevel: 3
 BookmarkPageNumber: 174
 BookmarkBegin
-BookmarkTitle: SPI?????
+BookmarkTitle: SPI Slave Initialization
 BookmarkLevel: 3
 BookmarkPageNumber: 174
 BookmarkBegin
-BookmarkTitle: SPI??
+BookmarkTitle: SPI Interrupt
 BookmarkLevel: 3
 BookmarkPageNumber: 174
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 175
 BookmarkBegin
-BookmarkTitle: SPCR ? SPI?????
+BookmarkTitle: SPCR – SPI Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 175
 BookmarkBegin
-BookmarkTitle: SPSR ? SPI?????
+BookmarkTitle: SPSR – SPI Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 176
 BookmarkBegin
-BookmarkTitle: SPDR ? SPI?????
+BookmarkTitle: SPDR – SPI Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 177
 BookmarkBegin
-BookmarkTitle: SPFR ? SPI?????
+BookmarkTitle: SPFR – SPI Buffer Register
 BookmarkLevel: 4
 BookmarkPageNumber: 177
 BookmarkBegin
-BookmarkTitle: USART0 - ????/???????
+BookmarkTitle: USART0 - Universal Synchronous/Asynchronous Serial Transceiver
 BookmarkLevel: 2
 BookmarkPageNumber: 179
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 179
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Clock Generation
 BookmarkLevel: 3
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Baud Rate Generator
 BookmarkLevel: 3
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Double Speed Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: External Clock
 BookmarkLevel: 3
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Synchronous Clock Operation
 BookmarkLevel: 3
 BookmarkPageNumber: 181
 BookmarkBegin
-BookmarkTitle: ???
+BookmarkTitle: Frame Format
 BookmarkLevel: 3
 BookmarkPageNumber: 181
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Check Digit Calculation
 BookmarkLevel: 3
 BookmarkPageNumber: 182
 BookmarkBegin
-BookmarkTitle: USART???
+BookmarkTitle: USART Initialization
 BookmarkLevel: 3
 BookmarkPageNumber: 182
 BookmarkBegin
-BookmarkTitle: ???
+BookmarkTitle: Transmitter
 BookmarkLevel: 3
 BookmarkPageNumber: 182
 BookmarkBegin
-BookmarkTitle: ??5?8?????
+BookmarkTitle: Send 5 To 8 Frames Of Data
 BookmarkLevel: 3
 BookmarkPageNumber: 182
 BookmarkBegin
-BookmarkTitle: ??9?????
+BookmarkTitle: Send A Frame Of 9-Bit Data
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Transmit Parity
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ??????????
+BookmarkTitle: Send Flag Bit And Interrupt Handling
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Prohibit Sender
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ???
+BookmarkTitle: Receiver
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ??5?8?????
+BookmarkTitle: Receive Frames Of 5 To 8 Bits Of Data
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: ??9?????
+BookmarkTitle: Receive A Frame Of 9-Bit Data
 BookmarkLevel: 3
 BookmarkPageNumber: 184
 BookmarkBegin
-BookmarkTitle: ???????????
+BookmarkTitle: Receive End Flag And Interrupt Handling
 BookmarkLevel: 3
 BookmarkPageNumber: 184
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Receive Error Flag
 BookmarkLevel: 3
 BookmarkPageNumber: 184
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Parity Checker
 BookmarkLevel: 3
 BookmarkPageNumber: 184
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Disable Receiver
 BookmarkLevel: 3
 BookmarkPageNumber: 185
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Asynchronous Data Reception
 BookmarkLevel: 3
 BookmarkPageNumber: 185
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Asynchronous Working Range
 BookmarkLevel: 3
 BookmarkPageNumber: 185
 BookmarkBegin
-BookmarkTitle: ??????????
+BookmarkTitle: Baud Rate Setting And Introduction Error
 BookmarkLevel: 3
 BookmarkPageNumber: 186
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Multiprocessor Communication Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 186
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 187
 BookmarkBegin
-BookmarkTitle: UCSRA ? USART????????A
+BookmarkTitle: UCSRA – USART Control And Status Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 187
 BookmarkBegin
-BookmarkTitle: UCSRB ? USART????????B
+BookmarkTitle: UCSRB – USART Control And Status Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 188
 BookmarkBegin
-BookmarkTitle: UCSRC? USART????????C
+BookmarkTitle: UCSRC– USART Control And Status Register C
 BookmarkLevel: 4
 BookmarkPageNumber: 189
 BookmarkBegin
-BookmarkTitle: UBRRL ? USART?????????
+BookmarkTitle: UBRRL – USART Baud Rate Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 190
 BookmarkBegin
-BookmarkTitle: UBRRH ? USART?????????
+BookmarkTitle: UBRRH – USART Baud Rate Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 190
 BookmarkBegin
-BookmarkTitle: UDR ? USART?????
+BookmarkTitle: UDR – USART Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 191
 BookmarkBegin
-BookmarkTitle: USART0 - SPI????
+BookmarkTitle: USART0 - SPI Mode Of Operation
 BookmarkLevel: 2
 BookmarkPageNumber: 192
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 192
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Clock Generation
 BookmarkLevel: 3
 BookmarkPageNumber: 192
 BookmarkBegin
-BookmarkTitle: SPI???????
+BookmarkTitle: SPI Data Mode And Timing
 BookmarkLevel: 3
 BookmarkPageNumber: 193
 BookmarkBegin
-BookmarkTitle: ???
+BookmarkTitle: Frame Format
 BookmarkLevel: 3
 BookmarkPageNumber: 193
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Data Transmission
 BookmarkLevel: 3
 BookmarkPageNumber: 193
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Send Flag Bit And Interrupt
 BookmarkLevel: 3
 BookmarkPageNumber: 194
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Prohibit Sender
 BookmarkLevel: 3
 BookmarkPageNumber: 194
 BookmarkBegin
-BookmarkTitle: ?????????
+BookmarkTitle: Receive End Flag And Interrupt
 BookmarkLevel: 3
 BookmarkPageNumber: 194
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Disable Receiver
 BookmarkLevel: 3
 BookmarkPageNumber: 195
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 195
 BookmarkBegin
-BookmarkTitle: UCSRA ? USPI????????A
+BookmarkTitle: UCSRA – USPI Control And Status Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 195
 BookmarkBegin
-BookmarkTitle: UCSRB ? USPI????????B
+BookmarkTitle: UCSRB – USPI Control And Status Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 196
 BookmarkBegin
-BookmarkTitle: UCSRC? USART????????C
+BookmarkTitle: UCSRC– USART Control And Status Register C
 BookmarkLevel: 4
 BookmarkPageNumber: 196
 BookmarkBegin
-BookmarkTitle: UBRRL ? USPI?????????
+BookmarkTitle: UBRRL – USPI Baud Rate Register Low Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 197
 BookmarkBegin
-BookmarkTitle: UBRRH ? USPI?????????
+BookmarkTitle: UBRRH – USPI Baud Rate Register High Byte
 BookmarkLevel: 4
 BookmarkPageNumber: 197
 BookmarkBegin
-BookmarkTitle: UDR ? USPI?????
+BookmarkTitle: UDR – USPI Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 198
 BookmarkBegin
-BookmarkTitle: TWI ? ??????(I2C)
+BookmarkTitle: TWI – Two-Wire Serial Bus (I2C)
 BookmarkLevel: 2
 BookmarkPageNumber: 199
 BookmarkBegin
-BookmarkTitle: TWI????
+BookmarkTitle: TWI Bus Introduction
 BookmarkLevel: 3
 BookmarkPageNumber: 199
 BookmarkBegin
-BookmarkTitle: TWI??
+BookmarkTitle: TWI Terminology
 BookmarkLevel: 3
 BookmarkPageNumber: 199
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Electrical Connections
 BookmarkLevel: 3
 BookmarkPageNumber: 199
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Data Transmission And Frame Structure
 BookmarkLevel: 3
 BookmarkPageNumber: 200
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Start And Stop Status
 BookmarkLevel: 3
 BookmarkPageNumber: 200
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Address Package Format
 BookmarkLevel: 3
 BookmarkPageNumber: 200
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Packet Format
 BookmarkLevel: 3
 BookmarkPageNumber: 201
 BookmarkBegin
-BookmarkTitle: ????????????
+BookmarkTitle: Multi-host System And Its Arbitration And Synchronization
 BookmarkLevel: 3
 BookmarkPageNumber: 202
 BookmarkBegin
-BookmarkTitle: TWI????
+BookmarkTitle: TWI Module Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 203
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Bit Rate Generator Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 204
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Bus Interface Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 204
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Address Matching Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 205
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Control Unit
 BookmarkLevel: 3
 BookmarkPageNumber: 205
 BookmarkBegin
-BookmarkTitle: TWI???
+BookmarkTitle: Use Of TWI
 BookmarkLevel: 3
 BookmarkPageNumber: 205
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Transmission Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 207
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Host Send Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 207
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Host Receiving Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 210
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Slave Receive Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 213
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Slave Transmission Mode
 BookmarkLevel: 3
 BookmarkPageNumber: 217
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Other State
 BookmarkLevel: 3
 BookmarkPageNumber: 220
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Multi-Host System And Arbitration
 BookmarkLevel: 3
 BookmarkPageNumber: 221
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 222
 BookmarkBegin
-BookmarkTitle: TWBR ? TWI??????
+BookmarkTitle: TWBR – TWI Bit Rate Register
 BookmarkLevel: 4
 BookmarkPageNumber: 222
 BookmarkBegin
-BookmarkTitle: TWSR ? TWI?????
+BookmarkTitle: TWSR – TWI Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 223
 BookmarkBegin
-BookmarkTitle: TWAR ? TWI?????
+BookmarkTitle: TWAR – TWI Address Register
 BookmarkLevel: 4
 BookmarkPageNumber: 223
 BookmarkBegin
-BookmarkTitle: TWDR ? TWI?????
+BookmarkTitle: TWDR – TWI Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 224
 BookmarkBegin
-BookmarkTitle: TWCR ? TWI?????
+BookmarkTitle: TWCR – TWI Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 224
 BookmarkBegin
-BookmarkTitle: TWAMR ? TWI???????
+BookmarkTitle: TWAMR – TWI Address Mask Register
 BookmarkLevel: 4
 BookmarkPageNumber: 225
 BookmarkBegin
-BookmarkTitle: TWI??????
+BookmarkTitle: TWI Address Matching Logic
 BookmarkLevel: 4
 BookmarkPageNumber: 225
 BookmarkBegin
-BookmarkTitle: ?????0 (AC0)
+BookmarkTitle: Analog Comparator 0 (AC0)
 BookmarkLevel: 2
 BookmarkPageNumber: 226
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 226
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Analog Comparator Input
 BookmarkLevel: 3
 BookmarkPageNumber: 226
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Comparator Output Filtering
 BookmarkLevel: 3
 BookmarkPageNumber: 227
 BookmarkBegin
-BookmarkTitle: ??????PWM??
+BookmarkTitle: Comparator Output And PWM Control
 BookmarkLevel: 3
 BookmarkPageNumber: 228
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 229
 BookmarkBegin
-BookmarkTitle: C0SR ? AC0????????
+BookmarkTitle: C0SR – AC0 Control And Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 229
 BookmarkBegin
-BookmarkTitle: ADCSRB ? ADC????????B
+BookmarkTitle: ADCSRB – ADC Control And Status Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 230
 BookmarkBegin
-BookmarkTitle: C0XR ? AC0???????
+BookmarkTitle: C0XR – AC0 Auxiliary Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 230
 BookmarkBegin
-BookmarkTitle: ?????1 (AC1)
+BookmarkTitle: Analog Comparator 1 (AC1)
 BookmarkLevel: 2
 BookmarkPageNumber: 232
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 232
 BookmarkBegin
-BookmarkTitle: ????????
+BookmarkTitle: Analog Comparator Input
 BookmarkLevel: 3
 BookmarkPageNumber: 232
 BookmarkBegin
-BookmarkTitle: ???????
+BookmarkTitle: Comparator Output Filtering
 BookmarkLevel: 3
 BookmarkPageNumber: 233
 BookmarkBegin
-BookmarkTitle: ??????PWM??
+BookmarkTitle: Comparator Output And PWM Control
 BookmarkLevel: 3
 BookmarkPageNumber: 234
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 235
 BookmarkBegin
-BookmarkTitle: C1SR ? AC1????????
+BookmarkTitle: C1SR – AC1 Control And Status Register
 BookmarkLevel: 4
 BookmarkPageNumber: 235
 BookmarkBegin
-BookmarkTitle: ADCSRB ? ADC????????B
+BookmarkTitle: ADCSRB – ADC Control And Status Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 236
 BookmarkBegin
-BookmarkTitle: C1XR ? AC1???????
+BookmarkTitle: C1XR – AC1 Auxiliary Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 236
 BookmarkBegin
-BookmarkTitle: ?????(DAC)
+BookmarkTitle: Digital To Analog Converter (DAC)
 BookmarkLevel: 2
 BookmarkPageNumber: 238
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Review
 BookmarkLevel: 3
 BookmarkPageNumber: 238
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 238
 BookmarkBegin
-BookmarkTitle: DACON  ? DAC?????
+BookmarkTitle: DACON – DAC Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 238
 BookmarkBegin
-BookmarkTitle: DALR  ? DAC?????
+BookmarkTitle: DALR – DAC Data Register
 BookmarkLevel: 4
 BookmarkPageNumber: 239
 BookmarkBegin
-BookmarkTitle: 12??????(ADC)
+BookmarkTitle: 12-Bit Analog-to-Digital Converter (ADC)
 BookmarkLevel: 2
 BookmarkPageNumber: 240
 BookmarkBegin
-BookmarkTitle: ??
+BookmarkTitle: Overview
 BookmarkLevel: 3
 BookmarkPageNumber: 240
 BookmarkBegin
-BookmarkTitle: ADC???
+BookmarkTitle: ADC Operation
 BookmarkLevel: 3
 BookmarkPageNumber: 241
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Start A Conversion
 BookmarkLevel: 3
 BookmarkPageNumber: 241
 BookmarkBegin
-BookmarkTitle: ????ADC????
+BookmarkTitle: Prescaler And ADC Conversion Timing
 BookmarkLevel: 3
 BookmarkPageNumber: 242
 BookmarkBegin
-BookmarkTitle: ?????????
+BookmarkTitle: Sampling Channel And Reference Voltage
 BookmarkLevel: 3
 BookmarkPageNumber: 242
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Automatic Channel Monitoring
 BookmarkLevel: 3
 BookmarkPageNumber: 243
 BookmarkBegin
-BookmarkTitle: ????????(VDS)
+BookmarkTitle: Multiple Input Voltage Division Circuit (VDS)
 BookmarkLevel: 3
 BookmarkPageNumber: 243
 BookmarkBegin
-BookmarkTitle: ADC????
+BookmarkTitle: ADC Offset Calibration
 BookmarkLevel: 3
 BookmarkPageNumber: 244
 BookmarkBegin
-BookmarkTitle: ADC????
+BookmarkTitle: ADC Dynamic Calibration
 BookmarkLevel: 3
 BookmarkPageNumber: 244
 BookmarkBegin
-BookmarkTitle: ?????
+BookmarkTitle: Register Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 245
 BookmarkBegin
-BookmarkTitle: ADCL ? ADC????????
+BookmarkTitle: ADCL – ADC Data Low Byte Register
 BookmarkLevel: 4
 BookmarkPageNumber: 245
 BookmarkBegin
-BookmarkTitle: ADCH ? ADC????????
+BookmarkTitle: ADCH – ADC Data High Byte Register
 BookmarkLevel: 4
 BookmarkPageNumber: 246
 BookmarkBegin
-BookmarkTitle: ADCSRA ? ADC????????A
+BookmarkTitle: ADCSRA – ADC Control And Status Register A
 BookmarkLevel: 4
 BookmarkPageNumber: 246
 BookmarkBegin
-BookmarkTitle: ADCSRB ? ADC????????B
+BookmarkTitle: ADCSRB – ADC Control And Status Register B
 BookmarkLevel: 4
 BookmarkPageNumber: 247
 BookmarkBegin
-BookmarkTitle: ADMUX ? ADC?????????
+BookmarkTitle: ADMUX – ADC Multiplex Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 248
 BookmarkBegin
-BookmarkTitle: ADCSRC ? ADC???????C
+BookmarkTitle: ADCSRC – ADC Control Status Register C
 BookmarkLevel: 4
 BookmarkPageNumber: 249
 BookmarkBegin
-BookmarkTitle: DIDR0 ? ???????????0
+BookmarkTitle: DIDR0 – Digital Input Disable Control Register 0
 BookmarkLevel: 4
 BookmarkPageNumber: 249
 BookmarkBegin
-BookmarkTitle: DIDR1 ? ???????????1
+BookmarkTitle: DIDR1 – Digital Input Disable Control Register 1
 BookmarkLevel: 4
 BookmarkPageNumber: 250
 BookmarkBegin
-BookmarkTitle: ADCSRD ? ADC?????D
+BookmarkTitle: ADCSRD – ADC Control Register D
 BookmarkLevel: 4
 BookmarkPageNumber: 250
 BookmarkBegin
-BookmarkTitle: DAPCR ? ?????????
+BookmarkTitle: DAPCR – Differential Op Amp Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 251
 BookmarkBegin
-BookmarkTitle: OFR0 ? ???????0
+BookmarkTitle: OFR0 – Offset Compensation Register 0
 BookmarkLevel: 4
 BookmarkPageNumber: 251
 BookmarkBegin
-BookmarkTitle: OFR1 ? ???????1
+BookmarkTitle: OFR1 – Offset Compensation Register 1
 BookmarkLevel: 4
 BookmarkPageNumber: 252
 BookmarkBegin
-BookmarkTitle: ADMSC ? ADC???????????
+BookmarkTitle: ADMSC – ADC Channel Monitoring Status Control Register
 BookmarkLevel: 4
 BookmarkPageNumber: 252
 BookmarkBegin
-BookmarkTitle: ADT0L ? ?????????8?
+BookmarkTitle: ADT0L – Automatically Monitors The Underflow Threshold To A Low Of 8 Digits
 BookmarkLevel: 4
 BookmarkPageNumber: 252
 BookmarkBegin
-BookmarkTitle: ADT0H ? ?????????8?
+BookmarkTitle: ADT0H – Automatically Monitors The Underflow Threshold To A High Of 8 Digits
 BookmarkLevel: 4
 BookmarkPageNumber: 253
 BookmarkBegin
-BookmarkTitle: ADT1L ? ?????????8?
+BookmarkTitle: ADT1L – Automatically Monitors The Upper 8 Of The Overflow Threshold
 BookmarkLevel: 4
 BookmarkPageNumber: 253
 BookmarkBegin
-BookmarkTitle: ADT1H ? ?????????8?
+BookmarkTitle: ADT1H – Automatically Monitors The Upper Threshold Of The Overflow Threshold By 8 Digits
 BookmarkLevel: 4
 BookmarkPageNumber: 253
 BookmarkBegin
-BookmarkTitle: VCAL ? ?????????
+BookmarkTitle: VCAL – Internal Reference Calibration Register
 BookmarkLevel: 4
 BookmarkPageNumber: 253
 BookmarkBegin
-BookmarkTitle: VCAL1 ? 1.024V???????
+BookmarkTitle: VCAL1 – 1.024V Reference Calibration Register
 BookmarkLevel: 4
 BookmarkPageNumber: 254
 BookmarkBegin
-BookmarkTitle: VCAL2 ? 2.048V???????
+BookmarkTitle: VCAL2 – 2.048V Reference Calibration Register
 BookmarkLevel: 4
 BookmarkPageNumber: 254
 BookmarkBegin
-BookmarkTitle: VCAL3? 4.096V???????
+BookmarkTitle: VCAL3– 4.096V Reference Calibration Register
 BookmarkLevel: 4
 BookmarkPageNumber: 254
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Register Quick Lookup Table
 BookmarkLevel: 2
 BookmarkPageNumber: 255
 BookmarkBegin
-BookmarkTitle: ??????
+BookmarkTitle: Instruction Set quick Lookup Table
 BookmarkLevel: 2
 BookmarkPageNumber: 260
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Package Parameter
 BookmarkLevel: 2
 BookmarkPageNumber: 264
 BookmarkBegin
-BookmarkTitle: LQFP32??????
+BookmarkTitle: LQFP32 Universal Size Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 264
 BookmarkBegin
-BookmarkTitle: LQFP48??????
+BookmarkTitle: LQFP48 Universal Size Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 265
 BookmarkBegin
-BookmarkTitle: SSOP20L??????
+BookmarkTitle: SSOP20L Universal Size Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 266
 BookmarkBegin
-BookmarkTitle: ????
+BookmarkTitle: Version History
 BookmarkLevel: 2
 BookmarkPageNumber: 267
 PageMediaBegin
